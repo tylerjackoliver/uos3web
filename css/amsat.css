@@ -1,7 +1,7 @@
 .version.amsat /* version checker */
 {
-	color: #0000F5;
-	background-color: #D1B3EC;
+	color: #0000E7;
+	background-color: #CF2465;
 }
 
 .html
@@ -90,19 +90,11 @@
 #u1430-4
 {
 	z-index: 89;
-	width: 1020px;
-	min-height: 87px;
-	background-color: transparent;
-	line-height: 66px;
-	font-size: 55px;
-	color: #FFFFFF;
-	text-transform: uppercase;
-	text-align: center;
-	font-family: coda, sans-serif;
-	font-weight: 400;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 363px;
+	margin-top: 378px;
 	left: 100px;
 }
 
@@ -1344,7 +1336,7 @@
 #u4058
 {
 	height: 18px;
-	width: 75px;
+	width: 71px;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
@@ -1366,7 +1358,7 @@
 .hidpi #u4058
 {
 	background-image: url("../images/u4058_2x.png");
-	background-size: 75px 18px;
+	background-size: 71px 18px;
 }
 
 .hidpi #u4057:hover #u4058

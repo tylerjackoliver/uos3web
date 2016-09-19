@@ -1,7 +1,7 @@
 .version.about_uos3 /* version checker */
 {
-	color: #0000F3;
-	background-color: #B9B41B;
+	color: #0000E4;
+	background-color: #C6E796;
 }
 
 .html
@@ -1335,7 +1335,7 @@
 #u3435
 {
 	height: 18px;
-	width: 75px;
+	width: 71px;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
@@ -1357,7 +1357,7 @@
 .hidpi #u3435
 {
 	background-image: url("../images/u3435_2x.png");
-	background-size: 75px 18px;
+	background-size: 71px 18px;
 }
 
 .hidpi #u3434:hover #u3435

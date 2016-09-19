@@ -1,7 +1,7 @@
 .version.publications /* version checker */
 {
-	color: #000019;
-	background-color: #85E208;
+	color: #0000E6;
+	background-color: #82EBE9;
 }
 
 .html
@@ -1347,7 +1347,7 @@
 #u3524
 {
 	height: 18px;
-	width: 75px;
+	width: 71px;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
@@ -1369,7 +1369,7 @@
 .hidpi #u3524
 {
 	background-image: url("../images/u3524_2x.png");
-	background-size: 75px 18px;
+	background-size: 71px 18px;
 }
 
 .hidpi #u3523:hover #u3524

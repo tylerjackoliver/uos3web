@@ -1,7 +1,7 @@
 .version.artwork /* version checker */
 {
-	color: #000010;
-	background-color: #C14450;
+	color: #000008;
+	background-color: #48AD14;
 }
 
 .html
@@ -1336,7 +1336,7 @@
 #u3969
 {
 	height: 18px;
-	width: 75px;
+	width: 71px;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
@@ -1358,7 +1358,7 @@
 .hidpi #u3969
 {
 	background-image: url("../images/u3969_2x.png");
-	background-size: 75px 18px;
+	background-size: 71px 18px;
 }
 
 .hidpi #u3968:hover #u3969

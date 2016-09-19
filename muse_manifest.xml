@@ -1,20 +1,20 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474304484192">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474306604082">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="318257780" ref="artwork:systems-overview:amsat:index:publications:subsystems:about-us:publicity:mission-objective:education:about-uos3:scientific:gallery"/>
-    <file name="artwork.css" crc="281101392" ref="artwork"/>
+    <file name="artwork.css" crc="138980628" ref="artwork"/>
     <file name="systems-overview.css" crc="409156891" ref="systems-overview"/>
-    <file name="amsat.css" crc="4124161004" ref="amsat"/>
-    <file name="index.css" crc="3825523397" ref="index"/>
-    <file name="publications.css" crc="428204552" ref="publications"/>
+    <file name="amsat.css" crc="3889112165" ref="amsat"/>
+    <file name="index.css" crc="165753974" ref="index"/>
+    <file name="publications.css" crc="3867339753" ref="publications"/>
     <file name="subsystems.css" crc="409156891" ref="subsystems"/>
     <file name="about-us.css" crc="4093312528" ref="about-us"/>
     <file name="publicity.css" crc="409156891" ref="publicity"/>
-    <file name="mission-objective.css" crc="524476772" ref="mission-objective"/>
+    <file name="mission-objective.css" crc="3821556376" ref="mission-objective"/>
     <file name="education.css" crc="409156891" ref="education"/>
-    <file name="about-uos3.css" crc="4089033755" ref="about-uos3"/>
+    <file name="about-uos3.css" crc="3838240662" ref="about-uos3"/>
     <file name="scientific.css" crc="409156891" ref="scientific"/>
-    <file name="gallery.css" crc="4108151650" ref="gallery"/>
+    <file name="gallery.css" crc="3760472121" ref="gallery"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
@@ -82,8 +82,8 @@
     <file name="u766-4_2x.png" crc="403698548" ref="index"/>
     <file name="u764-4.png" crc="306728286" ref="index"/>
     <file name="u764-4_2x.png" crc="4124056567" ref="index"/>
-    <file name="u767-4.png" crc="326628196" ref="index"/>
-    <file name="u767-4_2x.png" crc="3772389828" ref="index"/>
+    <file name="u767-4.png" crc="455881719" ref="index"/>
+    <file name="u767-4_2x.png" crc="3864463255" ref="index"/>
     <file name="u822-4.png" crc="4190520052" ref="index"/>
     <file name="u822-4_2x.png" crc="80266164" ref="index"/>
     <file name="_8jb1215_edited.jpg" crc="291477830" ref="about-us"/>
@@ -138,12 +138,12 @@
     <file name="u3613_2x.png" crc="340965575" ref="mission-objective"/>
     <file name="u3613-r_2x.png" crc="29745305" ref="mission-objective"/>
     <file name="u3613-m_2x.png" crc="29745305" ref="mission-objective"/>
-    <file name="u1918-4.png" crc="4049947794" ref="mission-objective"/>
-    <file name="u1918-4_2x.png" crc="3930738783" ref="mission-objective"/>
-    <file name="u1924-4.png" crc="4179584210" ref="mission-objective"/>
-    <file name="u1924-4_2x.png" crc="3999345663" ref="mission-objective"/>
-    <file name="u1921-4.png" crc="3777869484" ref="mission-objective"/>
-    <file name="u1921-4_2x.png" crc="38779647" ref="mission-objective"/>
+    <file name="u1918-4.png" crc="206783336" ref="mission-objective"/>
+    <file name="u1918-4_2x.png" crc="231307145" ref="mission-objective"/>
+    <file name="u1924-4.png" crc="4156911846" ref="mission-objective"/>
+    <file name="u1924-4_2x.png" crc="3805915177" ref="mission-objective"/>
+    <file name="u1921-4.png" crc="476478529" ref="mission-objective"/>
+    <file name="u1921-4_2x.png" crc="206725367" ref="mission-objective"/>
     <file name="20160907_123328-ieu1920-fr.png" crc="486056456" ref="mission-objective"/>
     <file name="20160907_123328.jpg" crc="486056456" ref="mission-objective"/>
     <file name="20160907_123328-ieu1920-fr2.png" crc="115818921" ref="mission-objective"/>
@@ -344,18 +344,20 @@
     <file name="20150205_141923-u1541-fr_2x.jpg" crc="3870259314" ref="about-uos3"/>
     <file name="u950-4.png" crc="302154866" ref="mission-objective"/>
     <file name="u950-4_2x.png" crc="184669925" ref="mission-objective"/>
+    <file name="u1430-4.png" crc="4206271394" ref="amsat"/>
+    <file name="u1430-4_2x.png" crc="171825422" ref="amsat"/>
   </folder>
-  <file name="index.html" crc="3959949334" seo="true" mt="1474304469349" redirect="true"/>
-  <file name="about-us.html" crc="4007522006" seo="true" mt="1474304470715" redirect="true"/>
-  <file name="mission-objective.html" crc="4222945722" seo="true" mt="1474304472240" redirect="true"/>
-  <file name="about-uos3.html" crc="3951035087" seo="true" mt="1474304473613" redirect="true"/>
-  <file name="gallery.html" crc="202754134" seo="true" mt="1474304475365" redirect="true"/>
-  <file name="artwork.html" crc="281526811" seo="true" mt="1474304479908" redirect="true"/>
-  <file name="amsat.html" crc="4081065672" seo="true" mt="1474304481001" redirect="true"/>
-  <file name="subsystems.html" crc="285807849" seo="true" mt="1474304468196" redirect="true"/>
-  <file name="systems-overview.html" crc="3996735930" seo="true" mt="1474304468196" redirect="true"/>
-  <file name="publications.html" crc="4225260320" seo="true" mt="1474304482871" redirect="true"/>
-  <file name="publicity.html" crc="3864661477" seo="true" mt="1474304468196" redirect="true"/>
-  <file name="education.html" crc="66247871" seo="true" mt="1474304468196" redirect="true"/>
-  <file name="scientific.html" crc="3820535920" seo="true" mt="1474304468196" redirect="true"/>
+  <file name="index.html" crc="376126909" seo="true" mt="1474306600707" redirect="true"/>
+  <file name="about-us.html" crc="4007522006" seo="true" mt="1474306602099" redirect="true"/>
+  <file name="mission-objective.html" crc="279342948" seo="true" mt="1474306490804" redirect="true"/>
+  <file name="about-uos3.html" crc="3951035087" seo="true" mt="1474306492216" redirect="true"/>
+  <file name="gallery.html" crc="202754134" seo="true" mt="1474306493851" redirect="true"/>
+  <file name="artwork.html" crc="281526811" seo="true" mt="1474306498033" redirect="true"/>
+  <file name="amsat.html" crc="366411637" seo="true" mt="1474306499241" redirect="true"/>
+  <file name="subsystems.html" crc="285807849" seo="true" mt="1474306599582" redirect="true"/>
+  <file name="systems-overview.html" crc="3996735930" seo="true" mt="1474306599582" redirect="true"/>
+  <file name="publications.html" crc="4225260320" seo="true" mt="1474306500502" redirect="true"/>
+  <file name="publicity.html" crc="3864661477" seo="true" mt="1474306599582" redirect="true"/>
+  <file name="education.html" crc="66247871" seo="true" mt="1474306599582" redirect="true"/>
+  <file name="scientific.html" crc="3820535920" seo="true" mt="1474306599582" redirect="true"/>
 </manifest>
