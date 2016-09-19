@@ -1,7 +1,7 @@
 .version.gallery /* version checker */
 {
-	color: #0000FC;
-	background-color: #C7D968;
+	color: #0000F4;
+	background-color: #DD6B62;
 }
 
 .html
@@ -43,8 +43,8 @@
 #u1252
 {
 	z-index: 87;
-	min-height: 246px;
-	padding-bottom: 480px;
+	min-height: 449px;
+	padding-bottom: 277px;
 	background: transparent url("../images/befunky%20collage.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -63,38 +63,38 @@
 	left: 65px;
 }
 
+#u4305
+{
+	z-index: 124;
+	width: 256px;
+	height: 95px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #666197;
+	background-color: rgba(27,20,100,0.67);
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 352px;
+	left: 484px;
+	-pie-background: rgba(27,20,100,0.67);
+}
+
 #u1252-bw
 {
 	z-index: 87;
-	min-height: 246px;
-}
-
-#u3842
-{
-	z-index: 123;
-	min-height: 378px;
-	background: transparent url("../images/u3842-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0,27,97,0.85)),color-stop(96%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(top,rgba(0,27,97,0.85) ,rgba(255,255,255,0) 96%);
-	background: linear-gradient(to bottom,rgba(0,27,97,0.85) ,rgba(255,255,255,0) 96%);
+	min-height: 449px;
 }
 
 #u4287-4
 {
-	z-index: 205;
+	z-index: 125;
 	display: block;
 	vertical-align: top;
-	margin-bottom: -45px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 304px;
-}
-
-#u3842-bw
-{
-	z-index: 123;
-	min-height: 378px;
-	margin-top: 76px;
+	margin-top: 380px;
 }
 
 #pu3843
@@ -107,7 +107,7 @@
 
 #u3843
 {
-	z-index: 124;
+	z-index: 123;
 	height: 76px;
 	background-color: #1B1464;
 	position: fixed;
@@ -116,7 +116,7 @@
 
 #u3843-bw
 {
-	z-index: 124;
+	z-index: 123;
 }
 
 #u1736
@@ -133,7 +133,7 @@
 
 #u3844
 {
-	z-index: 125;
+	z-index: 129;
 	width: 94px;
 	height: 90px;
 	position: fixed;
@@ -151,13 +151,13 @@
 
 #u3845-4
 {
-	z-index: 126;
+	z-index: 130;
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 28px;
 	font-size: 23px;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -799,7 +799,7 @@
 
 #menuu3846
 {
-	z-index: 130;
+	z-index: 134;
 	width: 695px;
 	border-style: none;
 	border-color: transparent;
@@ -835,10 +835,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -922,10 +922,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1165,10 +1165,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1407,10 +1407,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1494,10 +1494,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1581,10 +1581,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1668,10 +1668,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1926,9 +1926,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
+	color: #999999;
 	line-height: 20px;
 	text-align: center;
-	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 229px;
 	left: 7px;
@@ -1948,9 +1948,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
+	color: #999999;
 	line-height: 20px;
 	text-align: center;
-	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 229px;
 	left: 943px;
@@ -1978,7 +1978,7 @@
 	background-color: #1B1464;
 }
 
-#u1252_align_to_page,#u3842_align_to_page,#u1254_align_to_page
+#u1252_align_to_page,#u1254_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;

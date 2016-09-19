@@ -1,7 +1,7 @@
 .version.publications /* version checker */
 {
-	color: #0000F5;
-	background-color: #133027;
+	color: #000019;
+	background-color: #85E208;
 }
 
 .html
@@ -43,8 +43,8 @@
 #u1979
 {
 	z-index: 87;
-	min-height: 246px;
-	padding-bottom: 480px;
+	min-height: 410px;
+	padding-bottom: 316px;
 	background: transparent url("../images/20160223_172327.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -63,50 +63,40 @@
 	left: 65px;
 }
 
+#u4304
+{
+	z-index: 102;
+	width: 422px;
+	height: 73px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #666197;
+	background-color: rgba(27,20,100,0.67);
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 335px;
+	left: 400px;
+	-pie-background: rgba(27,20,100,0.67);
+}
+
 #u1979-bw
 {
 	z-index: 87;
-	min-height: 246px;
-}
-
-#u1992-9
-{
-	z-index: 89;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 742px;
-	left: 120px;
-}
-
-#u3486
-{
-	z-index: 102;
-	height: 699px;
-	background: transparent url("../images/u3486-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, from(rgba(0,27,97,0.85)),color-stop(96%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(top,rgba(0,27,97,0.85) ,rgba(255,255,255,0) 96%);
-	background: linear-gradient(to bottom,rgba(0,27,97,0.85) ,rgba(255,255,255,0) 96%);
-}
-
-#u3486-bw
-{
-	z-index: 102;
-	margin-top: 76px;
-	height: 699px;
+	min-height: 410px;
 }
 
 #u4289-4
 {
-	z-index: 184;
+	z-index: 103;
 	display: block;
 	vertical-align: top;
 }
 
 #u4289-4-bw
 {
-	z-index: 184;
+	z-index: 103;
 	margin-top: 351px;
 }
 
@@ -114,13 +104,13 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -843px;
+	margin-top: -726px;
 	padding: 30px 1120px 61px 100px;
 }
 
 #u3487
 {
-	z-index: 103;
+	z-index: 107;
 	height: 76px;
 	background-color: #1B1464;
 	position: fixed;
@@ -129,7 +119,7 @@
 
 #u3487-bw
 {
-	z-index: 103;
+	z-index: 107;
 }
 
 #u1736
@@ -146,7 +136,7 @@
 
 #u3488
 {
-	z-index: 104;
+	z-index: 108;
 	width: 94px;
 	height: 90px;
 	position: fixed;
@@ -164,13 +154,13 @@
 
 #u3489-4
 {
-	z-index: 105;
+	z-index: 109;
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 28px;
 	font-size: 23px;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -812,7 +802,7 @@
 
 #menuu3490
 {
-	z-index: 109;
+	z-index: 113;
 	width: 695px;
 	border-style: none;
 	border-color: transparent;
@@ -857,10 +847,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -944,10 +934,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1187,10 +1177,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1429,10 +1419,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1516,10 +1506,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1603,10 +1593,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1690,10 +1680,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1751,6 +1741,16 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#u1992-9
+{
+	z-index: 89;
+	display: block;
+	vertical-align: top;
+	margin-left: 20px;
+	margin-top: 16px;
+	position: relative;
 }
 
 #u1620
