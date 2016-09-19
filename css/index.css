@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001E;
-	background-color: #256381;
+	color: #000019;
+	background-color: #13DBDE;
 }
 
 .html
@@ -205,10 +205,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -292,10 +292,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -379,10 +379,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -466,10 +466,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -553,10 +553,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -640,10 +640,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -727,10 +727,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -817,9 +817,9 @@
 	background-color: transparent;
 	line-height: 58px;
 	font-size: 48px;
-	color: #1B1464;
 	text-transform: uppercase;
 	text-align: center;
+	color: #1B1464;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -849,10 +849,10 @@
 	width: 267px;
 	min-height: 260px;
 	background-color: transparent;
-	color: #1B1464;
 	line-height: 20px;
 	font-size: 17px;
 	text-align: center;
+	color: #1B1464;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -867,10 +867,10 @@
 	width: 312px;
 	min-height: 260px;
 	background-color: transparent;
-	color: #1B1464;
 	line-height: 20px;
 	font-size: 17px;
 	text-align: center;
+	color: #1B1464;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -944,10 +944,10 @@
 	width: 267px;
 	min-height: 260px;
 	background-color: transparent;
-	color: #1B1464;
 	line-height: 20px;
 	font-size: 17px;
 	text-align: center;
+	color: #1B1464;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1094,11 +1094,11 @@
 	width: 980px;
 	min-height: 79px;
 	background-color: transparent;
-	line-height: 48px;
 	font-size: 40px;
 	letter-spacing: 2px;
-	color: #1B1464;
+	line-height: 48px;
 	text-align: center;
+	color: #1B1464;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	left: 120px;
