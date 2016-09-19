@@ -1,0 +1,366 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474303287499">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="431155291" ref="artwork:systems-overview:amsat:index:publications:subsystems:about-us:publicity:mission-objective:education:about-uos3:scientific:gallery"/>
+    <file name="artwork.css" crc="3949480322" ref="artwork"/>
+    <file name="systems-overview.css" crc="409156891" ref="systems-overview"/>
+    <file name="amsat.css" crc="4232142552" ref="amsat"/>
+    <file name="index.css" crc="4291526662" ref="index"/>
+    <file name="publications.css" crc="4111675431" ref="publications"/>
+    <file name="subsystems.css" crc="409156891" ref="subsystems"/>
+    <file name="about-us.css" crc="217342310" ref="about-us"/>
+    <file name="publicity.css" crc="409156891" ref="publicity"/>
+    <file name="mission-objective.css" crc="491694321" ref="mission-objective"/>
+    <file name="education.css" crc="409156891" ref="education"/>
+    <file name="about-uos3.css" crc="4273009014" ref="about-uos3"/>
+    <file name="scientific.css" crc="409156891" ref="scientific"/>
+    <file name="gallery.css" crc="4240955752" ref="gallery"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="museutils.js" crc="183364071" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:publications"/>
+    <file name="pie.js" crc="3827607177" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:publications"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="webpro.js" crc="3803554875" ref="gallery"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="gallery"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="gallery"/>
+    <file name="touchswipe.js" crc="4038331989" ref="gallery"/>
+  </folder>
+  <folder name="images">
+    <file name="pattern-89ds.jpg" crc="384133898" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:publications"/>
+    <file name="u1736-grad.png" crc="226470999" ref="index"/>
+    <file name="u1734-grad.png" crc="4051094292" ref="index"/>
+    <file name="8jb1210.jpg" crc="4244271330" ref="index"/>
+    <file name="u748-6.png" crc="434730482" ref="index"/>
+    <file name="u748-6_2x.png" crc="4110367637" ref="index"/>
+    <file name="u683-grad.png" crc="178133776" ref="index"/>
+    <file name="uos3.png" crc="4177394738" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:publications"/>
+    <file name="uos3_2x.png" crc="4263405452" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:publications"/>
+    <file name="u685-4-a.png" crc="4045450738" ref="index"/>
+    <file name="u685-4-a_2x.png" crc="365598894" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="u1788.png" crc="4014289126" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="u1788-r.png" crc="41865678" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="u1788-m.png" crc="4004696836" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="u1788_2x.png" crc="4026162433" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="u1788-r_2x.png" crc="4225376383" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="u1788-m_2x.png" crc="4113995040" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="u1782.png" crc="4288709612" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="u1782-r.png" crc="396965274" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="u1782-m.png" crc="3971976459" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="u1782_2x.png" crc="3959289548" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="u1782-r_2x.png" crc="215033936" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="u1782-m_2x.png" crc="4098751846" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific"/>
+    <file name="u2234.png" crc="91321722" ref="index"/>
+    <file name="u2234-r.png" crc="4155799471" ref="index"/>
+    <file name="u2234_2x.png" crc="445374170" ref="index"/>
+    <file name="u2234-r_2x.png" crc="410958953" ref="index"/>
+    <file name="u2219.png" crc="417434302" ref="index"/>
+    <file name="u2219-r.png" crc="4284243647" ref="index"/>
+    <file name="u2219_2x.png" crc="4027518194" ref="index"/>
+    <file name="u2219-r_2x.png" crc="433268958" ref="index"/>
+    <file name="u2227.png" crc="4254596034" ref="index"/>
+    <file name="u2227-r.png" crc="83769106" ref="index"/>
+    <file name="u2227_2x.png" crc="3900861833" ref="index"/>
+    <file name="u2227-r_2x.png" crc="29078698" ref="index"/>
+    <file name="u2196.png" crc="60423186" ref="index"/>
+    <file name="u2196-r.png" crc="4187797715" ref="index"/>
+    <file name="u2196-m.png" crc="4187797715" ref="index"/>
+    <file name="u2196_2x.png" crc="4029995653" ref="index"/>
+    <file name="u2196-r_2x.png" crc="3788314938" ref="index"/>
+    <file name="u2196-m_2x.png" crc="3788314938" ref="index"/>
+    <file name="u2201.png" crc="4214051073" ref="index"/>
+    <file name="u2201-r.png" crc="4218265392" ref="index"/>
+    <file name="u2201-m.png" crc="4218265392" ref="index"/>
+    <file name="u2201_2x.png" crc="340965575" ref="index"/>
+    <file name="u2201-r_2x.png" crc="29745305" ref="index"/>
+    <file name="u2201-m_2x.png" crc="29745305" ref="index"/>
+    <file name="u766-4.png" crc="4239548954" ref="index"/>
+    <file name="u766-4_2x.png" crc="403698548" ref="index"/>
+    <file name="u764-4.png" crc="306728286" ref="index"/>
+    <file name="u764-4_2x.png" crc="4124056567" ref="index"/>
+    <file name="u767-4.png" crc="326628196" ref="index"/>
+    <file name="u767-4_2x.png" crc="3772389828" ref="index"/>
+    <file name="u822-4.png" crc="4190520052" ref="index"/>
+    <file name="u822-4_2x.png" crc="80266164" ref="index"/>
+    <file name="_8jb1215_edited.jpg" crc="291477830" ref="about-us"/>
+    <file name="u4198-grad.png" crc="458445662" ref="about-us"/>
+    <file name="u4270.png" crc="91321722" ref="about-us"/>
+    <file name="u4270-r.png" crc="4155799471" ref="about-us"/>
+    <file name="u4270_2x.png" crc="445374170" ref="about-us"/>
+    <file name="u4270-r_2x.png" crc="410958953" ref="about-us"/>
+    <file name="u4277.png" crc="417434302" ref="about-us"/>
+    <file name="u4277-r.png" crc="4284243647" ref="about-us"/>
+    <file name="u4277_2x.png" crc="4027518194" ref="about-us"/>
+    <file name="u4277-r_2x.png" crc="433268958" ref="about-us"/>
+    <file name="u4282.png" crc="4254596034" ref="about-us"/>
+    <file name="u4282-r.png" crc="83769106" ref="about-us"/>
+    <file name="u4282_2x.png" crc="3900861833" ref="about-us"/>
+    <file name="u4282-r_2x.png" crc="29078698" ref="about-us"/>
+    <file name="u4231.png" crc="60423186" ref="about-us"/>
+    <file name="u4231-r.png" crc="4187797715" ref="about-us"/>
+    <file name="u4231-m.png" crc="4187797715" ref="about-us"/>
+    <file name="u4231_2x.png" crc="4029995653" ref="about-us"/>
+    <file name="u4231-r_2x.png" crc="3788314938" ref="about-us"/>
+    <file name="u4231-m_2x.png" crc="3788314938" ref="about-us"/>
+    <file name="u4236.png" crc="4214051073" ref="about-us"/>
+    <file name="u4236-r.png" crc="4218265392" ref="about-us"/>
+    <file name="u4236-m.png" crc="4218265392" ref="about-us"/>
+    <file name="u4236_2x.png" crc="340965575" ref="about-us"/>
+    <file name="u4236-r_2x.png" crc="29745305" ref="about-us"/>
+    <file name="u4236-m_2x.png" crc="29745305" ref="about-us"/>
+    <file name="u860-4.png" crc="4190520052" ref="about-us"/>
+    <file name="u860-4_2x.png" crc="80266164" ref="about-us"/>
+    <file name="20160610_161053.jpg" crc="535703626" ref="mission-objective"/>
+    <file name="u3575-grad.png" crc="85104178" ref="mission-objective"/>
+    <file name="u3647.png" crc="91321722" ref="mission-objective"/>
+    <file name="u3647-r.png" crc="4155799471" ref="mission-objective"/>
+    <file name="u3647_2x.png" crc="445374170" ref="mission-objective"/>
+    <file name="u3647-r_2x.png" crc="410958953" ref="mission-objective"/>
+    <file name="u3654.png" crc="417434302" ref="mission-objective"/>
+    <file name="u3654-r.png" crc="4284243647" ref="mission-objective"/>
+    <file name="u3654_2x.png" crc="4027518194" ref="mission-objective"/>
+    <file name="u3654-r_2x.png" crc="433268958" ref="mission-objective"/>
+    <file name="u3659.png" crc="4254596034" ref="mission-objective"/>
+    <file name="u3659-r.png" crc="83769106" ref="mission-objective"/>
+    <file name="u3659_2x.png" crc="3900861833" ref="mission-objective"/>
+    <file name="u3659-r_2x.png" crc="29078698" ref="mission-objective"/>
+    <file name="u3608.png" crc="60423186" ref="mission-objective"/>
+    <file name="u3608-r.png" crc="4187797715" ref="mission-objective"/>
+    <file name="u3608-m.png" crc="4187797715" ref="mission-objective"/>
+    <file name="u3608_2x.png" crc="4029995653" ref="mission-objective"/>
+    <file name="u3608-r_2x.png" crc="3788314938" ref="mission-objective"/>
+    <file name="u3608-m_2x.png" crc="3788314938" ref="mission-objective"/>
+    <file name="u3613.png" crc="4214051073" ref="mission-objective"/>
+    <file name="u3613-r.png" crc="4218265392" ref="mission-objective"/>
+    <file name="u3613-m.png" crc="4218265392" ref="mission-objective"/>
+    <file name="u3613_2x.png" crc="340965575" ref="mission-objective"/>
+    <file name="u3613-r_2x.png" crc="29745305" ref="mission-objective"/>
+    <file name="u3613-m_2x.png" crc="29745305" ref="mission-objective"/>
+    <file name="u1918-4.png" crc="4049947794" ref="mission-objective"/>
+    <file name="u1918-4_2x.png" crc="3930738783" ref="mission-objective"/>
+    <file name="u1924-4.png" crc="4179584210" ref="mission-objective"/>
+    <file name="u1924-4_2x.png" crc="3999345663" ref="mission-objective"/>
+    <file name="u1921-4.png" crc="3777869484" ref="mission-objective"/>
+    <file name="u1921-4_2x.png" crc="38779647" ref="mission-objective"/>
+    <file name="20160907_123328-ieu1920-fr.png" crc="486056456" ref="mission-objective"/>
+    <file name="20160907_123328.jpg" crc="486056456" ref="mission-objective"/>
+    <file name="20160907_123328-ieu1920-fr2.png" crc="115818921" ref="mission-objective"/>
+    <file name="20160907_123328_2x.jpg" crc="373410499" ref="mission-objective"/>
+    <file name="img_6719-ieu1925-fr.png" crc="495417951" ref="mission-objective"/>
+    <file name="img_6719.jpg" crc="495417951" ref="mission-objective"/>
+    <file name="img_6719-ieu1925-fr2.png" crc="4123262594" ref="mission-objective"/>
+    <file name="img_6719_2x.jpg" crc="120726403" ref="mission-objective"/>
+    <file name="20151120_151950-ieu1922-fr.png" crc="77385307" ref="mission-objective"/>
+    <file name="20151120_151950.jpg" crc="77385307" ref="mission-objective"/>
+    <file name="20151120_151950-ieu1922-fr2.png" crc="40251144" ref="mission-objective"/>
+    <file name="20151120_151950_2x.jpg" crc="4230327286" ref="mission-objective"/>
+    <file name="u972-4.png" crc="4190520052" ref="mission-objective"/>
+    <file name="u972-4_2x.png" crc="80266164" ref="mission-objective"/>
+    <file name="_8jb1192_small2.jpg" crc="4261859741" ref="about-uos3"/>
+    <file name="u3469.png" crc="91321722" ref="about-uos3"/>
+    <file name="u3469-r.png" crc="4155799471" ref="about-uos3"/>
+    <file name="u3469_2x.png" crc="445374170" ref="about-uos3"/>
+    <file name="u3469-r_2x.png" crc="410958953" ref="about-uos3"/>
+    <file name="u3476.png" crc="417434302" ref="about-uos3"/>
+    <file name="u3476-r.png" crc="4284243647" ref="about-uos3"/>
+    <file name="u3476_2x.png" crc="4027518194" ref="about-uos3"/>
+    <file name="u3476-r_2x.png" crc="433268958" ref="about-uos3"/>
+    <file name="u3481.png" crc="4254596034" ref="about-uos3"/>
+    <file name="u3481-r.png" crc="83769106" ref="about-uos3"/>
+    <file name="u3481_2x.png" crc="3900861833" ref="about-uos3"/>
+    <file name="u3481-r_2x.png" crc="29078698" ref="about-uos3"/>
+    <file name="u3430.png" crc="60423186" ref="about-uos3"/>
+    <file name="u3430-r.png" crc="4187797715" ref="about-uos3"/>
+    <file name="u3430-m.png" crc="4187797715" ref="about-uos3"/>
+    <file name="u3430_2x.png" crc="4029995653" ref="about-uos3"/>
+    <file name="u3430-r_2x.png" crc="3788314938" ref="about-uos3"/>
+    <file name="u3430-m_2x.png" crc="3788314938" ref="about-uos3"/>
+    <file name="u3435.png" crc="4214051073" ref="about-uos3"/>
+    <file name="u3435-r.png" crc="4218265392" ref="about-uos3"/>
+    <file name="u3435-m.png" crc="4218265392" ref="about-uos3"/>
+    <file name="u3435_2x.png" crc="340965575" ref="about-uos3"/>
+    <file name="u3435-r_2x.png" crc="29745305" ref="about-uos3"/>
+    <file name="u3435-m_2x.png" crc="29745305" ref="about-uos3"/>
+    <file name="u1539-4.png" crc="3971317691" ref="about-uos3"/>
+    <file name="u1539-4_2x.png" crc="155860795" ref="about-uos3"/>
+    <file name="u1542-4.png" crc="181433964" ref="about-uos3"/>
+    <file name="u1542-4_2x.png" crc="3994259560" ref="about-uos3"/>
+    <file name="10655311_960061624018306_7507488981327110558_o-ieu1543-fr.png" crc="376157985" ref="about-uos3"/>
+    <file name="10655311_960061624018306_7507488981327110558_o.jpg" crc="3805597600" ref="about-uos3"/>
+    <file name="10655311_960061624018306_7507488981327110558_o-ieu1543-fr2.png" crc="122277001" ref="about-uos3"/>
+    <file name="10655311_960061624018306_7507488981327110558_o_2x.jpg" crc="373223109" ref="about-uos3"/>
+    <file name="u1158-4.png" crc="3951422443" ref="about-uos3"/>
+    <file name="u1158-4_2x.png" crc="4080384269" ref="about-uos3"/>
+    <file name="befunky collage.jpg" crc="3789490369" ref="gallery"/>
+    <file name="u3842-grad.png" crc="3988537856" ref="gallery"/>
+    <file name="u3914.png" crc="91321722" ref="gallery"/>
+    <file name="u3914-r.png" crc="4155799471" ref="gallery"/>
+    <file name="u3914_2x.png" crc="445374170" ref="gallery"/>
+    <file name="u3914-r_2x.png" crc="410958953" ref="gallery"/>
+    <file name="u3921.png" crc="417434302" ref="gallery"/>
+    <file name="u3921-r.png" crc="4284243647" ref="gallery"/>
+    <file name="u3921_2x.png" crc="4027518194" ref="gallery"/>
+    <file name="u3921-r_2x.png" crc="433268958" ref="gallery"/>
+    <file name="u3926.png" crc="4254596034" ref="gallery"/>
+    <file name="u3926-r.png" crc="83769106" ref="gallery"/>
+    <file name="u3926_2x.png" crc="3900861833" ref="gallery"/>
+    <file name="u3926-r_2x.png" crc="29078698" ref="gallery"/>
+    <file name="u3875.png" crc="60423186" ref="gallery"/>
+    <file name="u3875-r.png" crc="4187797715" ref="gallery"/>
+    <file name="u3875-m.png" crc="4187797715" ref="gallery"/>
+    <file name="u3875_2x.png" crc="4029995653" ref="gallery"/>
+    <file name="u3875-r_2x.png" crc="3788314938" ref="gallery"/>
+    <file name="u3875-m_2x.png" crc="3788314938" ref="gallery"/>
+    <file name="u3880.png" crc="4214051073" ref="gallery"/>
+    <file name="u3880-r.png" crc="4218265392" ref="gallery"/>
+    <file name="u3880-m.png" crc="4218265392" ref="gallery"/>
+    <file name="u3880_2x.png" crc="340965575" ref="gallery"/>
+    <file name="u3880-r_2x.png" crc="29745305" ref="gallery"/>
+    <file name="u3880-m_2x.png" crc="29745305" ref="gallery"/>
+    <file name="20150205_141814-crop-u2859.jpg" crc="86664738" ref="gallery"/>
+    <file name="20150205_141814-crop-u2859_2x.jpg" crc="3820902425" ref="gallery"/>
+    <file name="20150205_141814rotated-crop-u2891.jpg" crc="4052545087" ref="gallery"/>
+    <file name="20150205_141814rotated-crop-u2891_2x.jpg" crc="4104929367" ref="gallery"/>
+    <file name="20150205_141819-crop-u2900.jpg" crc="190302456" ref="gallery"/>
+    <file name="20150205_141819-crop-u2900_2x.jpg" crc="444065209" ref="gallery"/>
+    <file name="20150205_141916-crop-u2909.jpg" crc="3859035861" ref="gallery"/>
+    <file name="20150205_141916-crop-u2909_2x.jpg" crc="4217464781" ref="gallery"/>
+    <file name="20150205_141923-crop-u2918.jpg" crc="3787211329" ref="gallery"/>
+    <file name="20150205_141923-crop-u2918_2x.jpg" crc="150059107" ref="gallery"/>
+    <file name="20160610_161053664x498.jpg" crc="1588621" seo="true" ref="gallery"/>
+    <file name="20160610_161053664x498_2x.jpg" crc="4078064124" seo="true" ref="gallery"/>
+    <file name="_8jb1192_small.jpg" crc="175523251" seo="true" ref="gallery"/>
+    <file name="_8jb1192_small_2x.jpg" crc="520611781" seo="true" ref="gallery"/>
+    <file name="_8jb1196.jpg" crc="3965123926" seo="true" ref="gallery"/>
+    <file name="_8jb1196_2x.jpg" crc="4064556213" seo="true" ref="gallery"/>
+    <file name="_8jb1197.jpg" crc="294416481" seo="true" ref="gallery"/>
+    <file name="_8jb1197_2x.jpg" crc="3856333526" seo="true" ref="gallery"/>
+    <file name="_8jb1205.jpg" crc="34329668" seo="true" ref="gallery"/>
+    <file name="_8jb1205_2x.jpg" crc="229128945" seo="true" ref="gallery"/>
+    <file name="_8jb1210.jpg" crc="168066782" seo="true" ref="gallery"/>
+    <file name="_8jb1210_2x.jpg" crc="479972599" seo="true" ref="gallery"/>
+    <file name="_8jb1215.jpg" crc="497864237" seo="true" ref="gallery"/>
+    <file name="_8jb1215_2x.jpg" crc="149703434" seo="true" ref="gallery"/>
+    <file name="loading.gif" crc="3815509949" ref="gallery"/>
+    <file name="u1229-4.png" crc="4190520052" ref="gallery"/>
+    <file name="u1229-4_2x.png" crc="80266164" ref="gallery"/>
+    <file name="20150629_121023.jpg" crc="416793205" ref="artwork"/>
+    <file name="u3931-grad.png" crc="134660721" ref="artwork"/>
+    <file name="u4003.png" crc="91321722" ref="artwork"/>
+    <file name="u4003-r.png" crc="4155799471" ref="artwork"/>
+    <file name="u4003_2x.png" crc="445374170" ref="artwork"/>
+    <file name="u4003-r_2x.png" crc="410958953" ref="artwork"/>
+    <file name="u4010.png" crc="417434302" ref="artwork"/>
+    <file name="u4010-r.png" crc="4284243647" ref="artwork"/>
+    <file name="u4010_2x.png" crc="4027518194" ref="artwork"/>
+    <file name="u4010-r_2x.png" crc="433268958" ref="artwork"/>
+    <file name="u4015.png" crc="4254596034" ref="artwork"/>
+    <file name="u4015-r.png" crc="83769106" ref="artwork"/>
+    <file name="u4015_2x.png" crc="3900861833" ref="artwork"/>
+    <file name="u4015-r_2x.png" crc="29078698" ref="artwork"/>
+    <file name="u3964.png" crc="60423186" ref="artwork"/>
+    <file name="u3964-r.png" crc="4187797715" ref="artwork"/>
+    <file name="u3964-m.png" crc="4187797715" ref="artwork"/>
+    <file name="u3964_2x.png" crc="4029995653" ref="artwork"/>
+    <file name="u3964-r_2x.png" crc="3788314938" ref="artwork"/>
+    <file name="u3964-m_2x.png" crc="3788314938" ref="artwork"/>
+    <file name="u3969.png" crc="4214051073" ref="artwork"/>
+    <file name="u3969-r.png" crc="4218265392" ref="artwork"/>
+    <file name="u3969-m.png" crc="4218265392" ref="artwork"/>
+    <file name="u3969_2x.png" crc="340965575" ref="artwork"/>
+    <file name="u3969-r_2x.png" crc="29745305" ref="artwork"/>
+    <file name="u3969-m_2x.png" crc="29745305" ref="artwork"/>
+    <file name="u1378-4.png" crc="2789230" ref="artwork"/>
+    <file name="u1378-4_2x.png" crc="332622249" ref="artwork"/>
+    <file name="20150922_175326.jpg" crc="145874975" ref="amsat"/>
+    <file name="u4020-grad.png" crc="237810595" ref="amsat"/>
+    <file name="u4092.png" crc="91321722" ref="amsat"/>
+    <file name="u4092-r.png" crc="4155799471" ref="amsat"/>
+    <file name="u4092_2x.png" crc="445374170" ref="amsat"/>
+    <file name="u4092-r_2x.png" crc="410958953" ref="amsat"/>
+    <file name="u4099.png" crc="417434302" ref="amsat"/>
+    <file name="u4099-r.png" crc="4284243647" ref="amsat"/>
+    <file name="u4099_2x.png" crc="4027518194" ref="amsat"/>
+    <file name="u4099-r_2x.png" crc="433268958" ref="amsat"/>
+    <file name="u4104.png" crc="4254596034" ref="amsat"/>
+    <file name="u4104-r.png" crc="83769106" ref="amsat"/>
+    <file name="u4104_2x.png" crc="3900861833" ref="amsat"/>
+    <file name="u4104-r_2x.png" crc="29078698" ref="amsat"/>
+    <file name="u4053.png" crc="60423186" ref="amsat"/>
+    <file name="u4053-r.png" crc="4187797715" ref="amsat"/>
+    <file name="u4053-m.png" crc="4187797715" ref="amsat"/>
+    <file name="u4053_2x.png" crc="4029995653" ref="amsat"/>
+    <file name="u4053-r_2x.png" crc="3788314938" ref="amsat"/>
+    <file name="u4053-m_2x.png" crc="3788314938" ref="amsat"/>
+    <file name="u4058.png" crc="4214051073" ref="amsat"/>
+    <file name="u4058-r.png" crc="4218265392" ref="amsat"/>
+    <file name="u4058-m.png" crc="4218265392" ref="amsat"/>
+    <file name="u4058_2x.png" crc="340965575" ref="amsat"/>
+    <file name="u4058-r_2x.png" crc="29745305" ref="amsat"/>
+    <file name="u4058-m_2x.png" crc="29745305" ref="amsat"/>
+    <file name="u1499-4.png" crc="4190520052" ref="amsat"/>
+    <file name="u1499-4_2x.png" crc="80266164" ref="amsat"/>
+    <file name="20160223_172327.jpg" crc="451531213" ref="publications"/>
+    <file name="u1992-9.png" crc="4150389835" ref="publications"/>
+    <file name="u1992-9_2x.png" crc="3921091827" ref="publications"/>
+    <file name="u3486-grad.png" crc="325979217" ref="publications"/>
+    <file name="u3558.png" crc="91321722" ref="publications"/>
+    <file name="u3558-r.png" crc="4155799471" ref="publications"/>
+    <file name="u3558_2x.png" crc="445374170" ref="publications"/>
+    <file name="u3558-r_2x.png" crc="410958953" ref="publications"/>
+    <file name="u3565.png" crc="417434302" ref="publications"/>
+    <file name="u3565-r.png" crc="4284243647" ref="publications"/>
+    <file name="u3565_2x.png" crc="4027518194" ref="publications"/>
+    <file name="u3565-r_2x.png" crc="433268958" ref="publications"/>
+    <file name="u3570.png" crc="4254596034" ref="publications"/>
+    <file name="u3570-r.png" crc="83769106" ref="publications"/>
+    <file name="u3570_2x.png" crc="3900861833" ref="publications"/>
+    <file name="u3570-r_2x.png" crc="29078698" ref="publications"/>
+    <file name="u3519.png" crc="60423186" ref="publications"/>
+    <file name="u3519-r.png" crc="4187797715" ref="publications"/>
+    <file name="u3519-m.png" crc="4187797715" ref="publications"/>
+    <file name="u3519_2x.png" crc="4029995653" ref="publications"/>
+    <file name="u3519-r_2x.png" crc="3788314938" ref="publications"/>
+    <file name="u3519-m_2x.png" crc="3788314938" ref="publications"/>
+    <file name="u3524.png" crc="4214051073" ref="publications"/>
+    <file name="u3524-r.png" crc="4218265392" ref="publications"/>
+    <file name="u3524-m.png" crc="4218265392" ref="publications"/>
+    <file name="u3524_2x.png" crc="340965575" ref="publications"/>
+    <file name="u3524-r_2x.png" crc="29745305" ref="publications"/>
+    <file name="u3524-m_2x.png" crc="29745305" ref="publications"/>
+    <file name="u1698-4.png" crc="2789230" ref="publications"/>
+    <file name="u1698-4_2x.png" crc="332622249" ref="publications"/>
+    <file name="u686-4.png" crc="394301358" ref="index"/>
+    <file name="u686-4_2x.png" crc="4248362253" ref="index"/>
+    <file name="u852-4.png" crc="3981931340" ref="about-us"/>
+    <file name="u852-4_2x.png" crc="414930370" ref="about-us"/>
+    <file name="u4287-4.png" crc="4181565969" ref="gallery"/>
+    <file name="u4287-4_2x.png" crc="3982271334" ref="gallery"/>
+    <file name="u1303-4.png" crc="43974102" ref="artwork"/>
+    <file name="u1303-4_2x.png" crc="144649773" ref="artwork"/>
+    <file name="u4289-4.png" crc="115588768" ref="publications"/>
+    <file name="u4289-4_2x.png" crc="124359017" ref="publications"/>
+    <file name="u4296-5.png" crc="79525526" ref="about-uos3"/>
+    <file name="u4296-5_2x.png" crc="21562875" ref="about-uos3"/>
+    <file name="20150205_141923-u1541-fr.jpg" crc="399281129" ref="about-uos3"/>
+    <file name="20150205_141923-u1541-fr_2x.jpg" crc="3870259314" ref="about-uos3"/>
+  </folder>
+  <file name="index.html" crc="4105417235" seo="true" mt="1474303272807" redirect="true"/>
+  <file name="about-us.html" crc="332075026" seo="true" mt="1474303274164" redirect="true"/>
+  <file name="mission-objective.html" crc="4237725215" seo="true" mt="1474303275543" redirect="true"/>
+  <file name="about-uos3.html" crc="3951035087" seo="true" mt="1474303277255" redirect="true"/>
+  <file name="gallery.html" crc="3788219635" seo="true" mt="1474303279159" redirect="true"/>
+  <file name="artwork.html" crc="56027339" seo="true" mt="1474303283000" redirect="true"/>
+  <file name="amsat.html" crc="256942013" seo="true" mt="1474303284278" redirect="true"/>
+  <file name="subsystems.html" crc="285807849" seo="true" mt="1474303271686" redirect="true"/>
+  <file name="systems-overview.html" crc="3996735930" seo="true" mt="1474303271686" redirect="true"/>
+  <file name="publications.html" crc="3823231022" seo="true" mt="1474303286130" redirect="true"/>
+  <file name="publicity.html" crc="3864661477" seo="true" mt="1474303271686" redirect="true"/>
+  <file name="education.html" crc="66247871" seo="true" mt="1474303271686" redirect="true"/>
+  <file name="scientific.html" crc="3820535920" seo="true" mt="1474303271686" redirect="true"/>
+</manifest>
