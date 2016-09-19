@@ -1,7 +1,7 @@
 .version.ground_station /* version checker */
 {
-	color: #0000F5;
-	background-color: #CC896B;
+	color: #000009;
+	background-color: #4DD56D;
 }
 
 .html
@@ -29,7 +29,7 @@
 
 #u4683
 {
-	z-index: 10;
+	z-index: 24;
 	height: 76px;
 	background-color: #1B1464;
 	position: fixed;
@@ -38,7 +38,7 @@
 
 #u4683-bw
 {
-	z-index: 10;
+	z-index: 24;
 }
 
 #pu4679
@@ -49,7 +49,7 @@
 
 #u4679
 {
-	z-index: 3;
+	z-index: 17;
 	min-height: 452px;
 	padding-bottom: 274px;
 	background: transparent url("../images/20150915_170536.jpg") no-repeat center center;
@@ -67,7 +67,7 @@
 
 #u4680
 {
-	z-index: 4;
+	z-index: 18;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -81,7 +81,7 @@
 
 #u4681
 {
-	z-index: 5;
+	z-index: 19;
 	width: 556px;
 	height: 104px;
 	border-width: 1px;
@@ -99,13 +99,13 @@
 
 #u4679-bw
 {
-	z-index: 3;
+	z-index: 17;
 	min-height: 452px;
 }
 
 #u4682-4
 {
-	z-index: 6;
+	z-index: 20;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -124,7 +124,7 @@
 
 #u4684
 {
-	z-index: 11;
+	z-index: 25;
 	width: 94px;
 	height: 90px;
 	position: fixed;
@@ -142,7 +142,7 @@
 
 #u4685-4
 {
-	z-index: 12;
+	z-index: 26;
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
@@ -159,7 +159,7 @@
 
 #menuu4686
 {
-	z-index: 16;
+	z-index: 30;
 	width: 695px;
 	border-style: none;
 	border-color: transparent;
@@ -803,7 +803,7 @@
 
 #u4736-14
 {
-	z-index: 60;
+	z-index: 3;
 	width: 980px;
 	min-height: 567px;
 	background-color: transparent;

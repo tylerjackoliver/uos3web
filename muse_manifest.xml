@@ -1,31 +1,31 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474318873532">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474319789723">
   <folder name="css">
     <file name="site_global.css" crc="4022110847"/>
     <file name="artwork.css" crc="460335309" ref="artwork"/>
     <file name="systems-overview.css" crc="4044432059" ref="systems-overview"/>
     <file name="amsat.css" crc="4045751621" ref="amsat"/>
-    <file name="index.css" crc="420731870" ref="index"/>
+    <file name="index.css" crc="15611374" ref="index"/>
     <file name="publications.css" crc="3795584043" ref="publications"/>
-    <file name="subsystems.css" crc="4247623847" ref="subsystems"/>
-    <file name="about-us.css" crc="3777532438" ref="about-us"/>
+    <file name="subsystems.css" crc="3889695398" ref="subsystems"/>
+    <file name="about-us.css" crc="3887637430" ref="about-us"/>
     <file name="publicity.css" crc="3888328918" ref="publicity"/>
     <file name="mission-objective.css" crc="342227115" ref="mission-objective"/>
     <file name="education.css" crc="3888328918" ref="education"/>
     <file name="about-uos3.css" crc="4019311075" ref="about-uos3"/>
     <file name="scientific.css" crc="3888328918" ref="scientific"/>
     <file name="gallery.css" crc="104891345" ref="gallery"/>
-    <file name="data-handling.css" crc="3760312511" ref="data-handling"/>
-    <file name="telecommunications.css" crc="363567592" ref="telecommunications"/>
-    <file name="mechanisms.css" crc="3925561773" ref="mechanisms"/>
-    <file name="payload.css" crc="4182911360" ref="payload"/>
-    <file name="power-raising-and-distribution.css" crc="477504357" ref="power-raising-and-distribution"/>
-    <file name="attitude-control.css" crc="4197929239" ref="attitude-control"/>
+    <file name="data-handling.css" crc="3897018346" ref="data-handling"/>
+    <file name="telecommunications.css" crc="4007013613" ref="telecommunications"/>
+    <file name="mechanisms.css" crc="434993961" ref="mechanisms"/>
+    <file name="payload.css" crc="195912282" ref="payload"/>
+    <file name="power-raising-and-distribution.css" crc="4061439565" ref="power-raising-and-distribution"/>
+    <file name="attitude-control.css" crc="412048190" ref="attitude-control"/>
     <file name="fee.css" crc="4291954368" ref="fee"/>
-    <file name="ground-station.css" crc="4123822443" ref="ground-station"/>
+    <file name="ground-station.css" crc="156095853" ref="ground-station"/>
     <file name="ecs.css" crc="3882040770" ref="ecs"/>
-    <file name="structural.css" crc="4276927054" ref="structural"/>
+    <file name="structural.css" crc="318602377" ref="structural"/>
     <file name="susf.css" crc="4164504046" ref="susf"/>
-    <file name="full-list.css" crc="4168064706" ref="full-list"/>
+    <file name="full-list.css" crc="299915050" ref="full-list"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific:ground-station:telecommunications:mechanisms:data-handling:payload:attitude-control:power-raising-and-distribution:structural:fee:ecs:susf:full-list"/>
@@ -44,8 +44,6 @@
   <folder name="images">
     <file name="pattern-89ds.jpg" crc="384133898" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:publications"/>
     <file name="8jb1210.jpg" crc="4244271330" ref="index"/>
-    <file name="u748-6.png" crc="434730482" ref="index"/>
-    <file name="u748-6_2x.png" crc="4110367637" ref="index"/>
     <file name="uos3.png" crc="4177394738" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:publications:systems-overview:subsystems:ground-station:telecommunications:mechanisms:data-handling:payload:attitude-control:power-raising-and-distribution:structural:fee:ecs:susf:full-list"/>
     <file name="uos3_2x.png" crc="4263405452" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:publications:systems-overview:subsystems:ground-station:telecommunications:mechanisms:data-handling:payload:attitude-control:power-raising-and-distribution:structural:fee:ecs:susf:full-list"/>
     <file name="u685-4-a.png" crc="4045450738" ref="index"/>
@@ -131,8 +129,8 @@
     <file name="u1992-9_2x.png" crc="3921091827" ref="publications"/>
     <file name="u1698-4.png" crc="2789230" ref="publications"/>
     <file name="u1698-4_2x.png" crc="332622249" ref="publications"/>
-    <file name="u686-4.png" crc="394301358" ref="index"/>
-    <file name="u686-4_2x.png" crc="4248362253" ref="index"/>
+    <file name="u686-4.png" crc="97006533" ref="index"/>
+    <file name="u686-4_2x.png" crc="96820129" ref="index"/>
     <file name="u852-4.png" crc="96527178" ref="about-us"/>
     <file name="u852-4_2x.png" crc="422117342" ref="about-us"/>
     <file name="u4287-4.png" crc="4181565969" ref="gallery"/>
@@ -264,30 +262,32 @@
     <file name="u5690-4_2x.png" crc="3848972848" ref="full-list"/>
     <file name="20151119_151816.jpg" crc="4060110181" ref="ecs"/>
     <file name="20150205_141417.jpg" crc="4244910272" ref="susf"/>
+    <file name="u748-5.png" crc="470835850" ref="index"/>
+    <file name="u748-5_2x.png" crc="298043596" ref="index"/>
   </folder>
-  <file name="index.html" crc="351871518" seo="true" mt="1474316572962" redirect="true"/>
-  <file name="about-us.html" crc="138337639" seo="true" mt="1474318866182" redirect="true"/>
+  <file name="index.html" crc="494796193" seo="true" mt="1474319440120" redirect="true"/>
+  <file name="about-us.html" crc="3893942534" seo="true" mt="1474319016614" redirect="true"/>
   <file name="mission-objective.html" crc="4116614298" seo="true" mt="1474316572951" redirect="true"/>
-  <file name="about-uos3.html" crc="4079929604" seo="true" mt="1474318871924" redirect="true"/>
+  <file name="about-uos3.html" crc="10679526" seo="true" mt="1474319781585" redirect="true"/>
   <file name="gallery.html" crc="227718288" seo="true" mt="1474316572970" redirect="true"/>
   <file name="artwork.html" crc="4154510392" seo="true" mt="1474316572949" redirect="true"/>
   <file name="amsat.html" crc="398181251" seo="true" mt="1474316572896" redirect="true"/>
-  <file name="subsystems.html" crc="4080897622" seo="true" mt="1474318275381" redirect="true"/>
+  <file name="subsystems.html" crc="4080897622" seo="true" mt="1474319785207" redirect="true"/>
   <file name="systems-overview.html" crc="370156090" seo="true" mt="1474316572968" redirect="true"/>
   <file name="publications.html" crc="218071214" seo="true" mt="1474316572971" redirect="true"/>
   <file name="publicity.html" crc="57180903" seo="true" mt="1474307649229" redirect="false"/>
   <file name="education.html" crc="3868298575" seo="true" mt="1474307649229" redirect="false"/>
   <file name="scientific.html" crc="284832088" seo="true" mt="1474307649229" redirect="false"/>
-  <file name="ground-station.html" crc="408133776" seo="true" mt="1474316572952" redirect="true"/>
-  <file name="telecommunications.html" crc="293932762" seo="true" mt="1474316572964" redirect="true"/>
-  <file name="mechanisms.html" crc="3891843189" seo="true" mt="1474316572960" redirect="true"/>
-  <file name="data-handling.html" crc="532694803" seo="true" mt="1474316572955" redirect="true"/>
-  <file name="payload.html" crc="19182106" seo="true" mt="1474316572910" redirect="true"/>
-  <file name="attitude-control.html" crc="456667283" seo="true" mt="1474316572923" redirect="true"/>
-  <file name="power-raising-and-distribution.html" crc="446923817" seo="true" mt="1474316572972" redirect="true"/>
-  <file name="structural.html" crc="535864334" seo="true" mt="1474316572975" redirect="true"/>
+  <file name="ground-station.html" crc="408133776" seo="true" mt="1474319617283" redirect="true"/>
+  <file name="telecommunications.html" crc="293932762" seo="true" mt="1474319678266" redirect="true"/>
+  <file name="mechanisms.html" crc="3924613266" seo="true" mt="1474319757500" redirect="true"/>
+  <file name="data-handling.html" crc="532694803" seo="true" mt="1474319775438" redirect="true"/>
+  <file name="payload.html" crc="19182106" seo="true" mt="1474319740502" redirect="true"/>
+  <file name="attitude-control.html" crc="456667283" seo="true" mt="1474319722614" redirect="true"/>
+  <file name="power-raising-and-distribution.html" crc="446923817" seo="true" mt="1474319710767" redirect="true"/>
+  <file name="structural.html" crc="535864334" seo="true" mt="1474319691517" redirect="true"/>
   <file name="fee.html" crc="416064192" seo="true" mt="1474318512046" redirect="true"/>
   <file name="ecs.html" crc="4149219715" seo="true" mt="1474318425381" redirect="true"/>
   <file name="susf.html" crc="244119444" seo="true" mt="1474318768814" redirect="true"/>
-  <file name="full-list.html" crc="268653919" seo="true" mt="1474318259916" redirect="true"/>
+  <file name="full-list.html" crc="268653919" seo="true" mt="1474319387646" redirect="true"/>
 </manifest>

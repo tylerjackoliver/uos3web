@@ -1,7 +1,7 @@
 .version.payload /* version checker */
 {
-	color: #0000F9;
-	background-color: #522980;
+	color: #00000B;
+	background-color: #AD625A;
 }
 
 .html
@@ -29,7 +29,7 @@
 
 #u5140
 {
-	z-index: 10;
+	z-index: 58;
 	height: 76px;
 	background-color: #1B1464;
 	position: fixed;
@@ -38,12 +38,12 @@
 
 #u5140-bw
 {
-	z-index: 10;
+	z-index: 58;
 }
 
 #u5136
 {
-	z-index: 3;
+	z-index: 51;
 	min-height: 452px;
 	padding-bottom: 274px;
 	background: transparent url("../images/20151202_102314.jpg") no-repeat center center;
@@ -61,7 +61,7 @@
 
 #u5137
 {
-	z-index: 4;
+	z-index: 52;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -75,7 +75,7 @@
 
 #u5138
 {
-	z-index: 5;
+	z-index: 53;
 	width: 654px;
 	border-width: 1px;
 	border-style: solid;
@@ -92,7 +92,7 @@
 
 #u5139-4
 {
-	z-index: 6;
+	z-index: 54;
 	display: block;
 	vertical-align: top;
 	margin-bottom: -30px;
@@ -104,7 +104,7 @@
 
 #u5136-bw
 {
-	z-index: 3;
+	z-index: 51;
 	min-height: 452px;
 }
 
@@ -118,7 +118,7 @@
 
 #u5141
 {
-	z-index: 11;
+	z-index: 59;
 	width: 94px;
 	height: 90px;
 	position: fixed;
@@ -136,7 +136,7 @@
 
 #u5142-4
 {
-	z-index: 12;
+	z-index: 60;
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
@@ -153,7 +153,7 @@
 
 #menuu5143
 {
-	z-index: 16;
+	z-index: 64;
 	width: 695px;
 	border-style: none;
 	border-color: transparent;
@@ -776,7 +776,7 @@
 
 #u5193-48
 {
-	z-index: 60;
+	z-index: 3;
 	width: 980px;
 	min-height: 352px;
 	background-color: transparent;
