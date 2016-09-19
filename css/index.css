@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000B;
-	background-color: #868E10;
+	color: #00001E;
+	background-color: #256381;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 2248.707636990416px;
+	min-height: 2248.657636990416px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -25,6 +25,7 @@
 
 #page_position_content
 {
+	padding-top: 1px;
 	width: 0.01px;
 }
 
@@ -45,7 +46,7 @@
 #u682
 {
 	z-index: 64;
-	min-height: 725.9000000000001px;
+	min-height: 724.9000000000001px;
 	padding-bottom: 0px;
 	background: transparent url("../images/8jb1210.jpg") no-repeat center center;
 	background-size: cover;
@@ -58,7 +59,7 @@
 	width: 1020px;
 	position: relative;
 	left: -100px;
-	padding-top: 287px;
+	padding-top: 286px;
 	padding-bottom: 93px;
 }
 
@@ -128,7 +129,7 @@
 #u682-bw
 {
 	z-index: 64;
-	min-height: 725.9000000000001px;
+	min-height: 724.9000000000001px;
 }
 
 #pu684
@@ -343,162 +344,6 @@
 	font-weight: normal;
 }
 
-#u2214
-{
-	width: 77px;
-	background-color: transparent;
-	top: 35px;
-}
-
-#u2215
-{
-	width: 77px;
-	background-color: #1B1464;
-	border-radius: 0px 0px 10px 10px ;
-	position: relative;
-}
-
-#u2215:hover
-{
-	width: 77px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u2231
-{
-	width: 77px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	padding-bottom: 6px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u2231:hover
-{
-	width: 77px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u2234
-{
-	height: 18px;
-	width: 72px;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	top: 3px;
-	left: 2px;
-	background: url("../images/u2234.png") no-repeat 0px 0px;
-}
-
-#u2231:hover #u2234
-{
-	background: url("../images/u2234-r.png") no-repeat 0px 0px;
-}
-
-.hidpi #u2234
-{
-	background-image: url("../images/u2234_2x.png");
-	background-size: 72px 18px;
-}
-
-.hidpi #u2231:hover #u2234
-{
-	background-image: url("../images/u2234-r_2x.png");
-	background-size: 70px 18px;
-}
-
-#u2217
-{
-	width: 77px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	padding-bottom: 7px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u2219
-{
-	height: 18px;
-	width: 59px;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	top: 3px;
-	left: 8px;
-	background: url("../images/u2219.png") no-repeat 0px 0px;
-}
-
-#u2217:hover #u2219
-{
-	background: url("../images/u2219-r.png") no-repeat 0px 0px;
-}
-
-.hidpi #u2219
-{
-	background-image: url("../images/u2219_2x.png");
-	background-size: 57px 18px;
-}
-
-.hidpi #u2217:hover #u2219
-{
-	background-image: url("../images/u2219-r_2x.png");
-	background-size: 59px 18px;
-}
-
-#u2230,#u2216,#u2223
-{
-	width: 77px;
-	background-color: transparent;
-	position: relative;
-}
-
-#u2226
-{
-	width: 77px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	padding-bottom: 6px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u2227
-{
-	height: 18px;
-	width: 59px;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	top: 3px;
-	left: 8px;
-	background: url("../images/u2227.png") no-repeat 0px 0px;
-}
-
-#u2226:hover #u2227
-{
-	background: url("../images/u2227-r.png") no-repeat 0px 0px;
-}
-
-.hidpi #u2227
-{
-	background-image: url("../images/u2227_2x.png");
-	background-size: 59px 18px;
-}
-
-.hidpi #u2226:hover #u2227
-{
-	background-image: url("../images/u2227-r_2x.png");
-	background-size: 57px 18px;
-}
-
 #u2185
 {
 	width: 114px;
@@ -584,161 +429,6 @@
 	color: #2E3192;
 	visibility: inherit;
 	font-weight: normal;
-}
-
-#u2190
-{
-	width: 114px;
-	background-color: transparent;
-	top: 35px;
-}
-
-#u2191
-{
-	width: 114px;
-	background-color: #1B1464;
-	border-radius: 10px;
-	position: relative;
-}
-
-#u2191:hover
-{
-	width: 114px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u2191:active
-{
-	width: 114px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u2193
-{
-	width: 114px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	border-radius: 10px;
-	padding-bottom: 8px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u2196
-{
-	height: 18px;
-	width: 110px;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	top: 4px;
-	left: 2px;
-	background: url("../images/u2196.png") no-repeat 0px 0px;
-}
-
-#u2193:hover #u2196
-{
-	background: url("../images/u2196-r.png") no-repeat 0px 0px;
-}
-
-#u2193:active #u2196
-{
-	background: url("../images/u2196-m.png") no-repeat 0px 0px;
-}
-
-.hidpi #u2196
-{
-	background-image: url("../images/u2196_2x.png");
-	background-size: 110px 18px;
-}
-
-.hidpi #u2193:hover #u2196
-{
-	background-image: url("../images/u2196-r_2x.png");
-	background-size: 110px 18px;
-}
-
-.hidpi #u2193:active #u2196
-{
-	background-image: url("../images/u2196-m_2x.png");
-	background-size: 110px 18px;
-}
-
-#u2192,#u2199
-{
-	width: 114px;
-	background-color: transparent;
-	position: relative;
-}
-
-#u2200
-{
-	width: 114px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	border-radius: 10px;
-	padding-bottom: 8px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u2193:hover,#u2200:hover
-{
-	border-radius: 10px 10px 0px 0px ;
-	width: 114px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u2200:active
-{
-	width: 114px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u2201
-{
-	height: 18px;
-	width: 75px;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	top: 4px;
-	left: 20px;
-	background: url("../images/u2201.png") no-repeat 0px 0px;
-}
-
-#u2200:hover #u2201
-{
-	background: url("../images/u2201-r.png") no-repeat 0px 0px;
-}
-
-#u2200:active #u2201
-{
-	background: url("../images/u2201-m.png") no-repeat 0px 0px;
-}
-
-.hidpi #u2201
-{
-	background-image: url("../images/u2201_2x.png");
-	background-size: 75px 18px;
-}
-
-.hidpi #u2200:hover #u2201
-{
-	background-image: url("../images/u2201-r_2x.png");
-	background-size: 67px 18px;
-}
-
-.hidpi #u2200:active #u2201
-{
-	background-image: url("../images/u2201-m_2x.png");
-	background-size: 71px 18px;
 }
 
 #u2255
@@ -1454,7 +1144,7 @@
 
 #u4308-4
 {
-	z-index: 164;
+	z-index: 133;
 	display: block;
 	vertical-align: top;
 	left: 842px;
@@ -1463,7 +1153,7 @@
 
 #u4316-4
 {
-	z-index: 174;
+	z-index: 143;
 	display: block;
 	vertical-align: top;
 	left: 855px;
@@ -1473,7 +1163,7 @@
 
 #u4309-6
 {
-	z-index: 168;
+	z-index: 137;
 	display: block;
 	vertical-align: top;
 	left: 804px;
