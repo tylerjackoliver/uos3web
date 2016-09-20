@@ -101,12 +101,14 @@
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/index.html"/>
   </url>
   <url>
     <loc>http://uos3.com/about-us.html</loc>
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/about-us.html"/>
   </url>
   <url>
     <loc>http://uos3.com/mission-objective.html</loc>
@@ -119,6 +121,7 @@
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/about-uos3.html"/>
   </url>
   <url>
     <loc>http://uos3.com/gallery.html</loc>
@@ -131,96 +134,112 @@
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/artwork.html"/>
   </url>
   <url>
     <loc>http://uos3.com/amsat.html</loc>
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/amsat.html"/>
   </url>
   <url>
     <loc>http://uos3.com/subsystems.html</loc>
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/subsystems.html"/>
   </url>
   <url>
     <loc>http://uos3.com/systems-overview.html</loc>
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/systems-overview.html"/>
   </url>
   <url>
     <loc>http://uos3.com/publications.html</loc>
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/publications.html"/>
   </url>
   <url>
     <loc>http://uos3.com/publicity.html</loc>
-    <lastmod>2016-09-19</lastmod>
+    <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/publicity.html"/>
   </url>
   <url>
     <loc>http://uos3.com/education.html</loc>
-    <lastmod>2016-09-19</lastmod>
+    <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/education.html"/>
   </url>
   <url>
     <loc>http://uos3.com/scientific.html</loc>
-    <lastmod>2016-09-19</lastmod>
+    <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/scientific.html"/>
   </url>
   <url>
     <loc>http://uos3.com/ground-station.html</loc>
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/ground-station.html"/>
   </url>
   <url>
     <loc>http://uos3.com/telecommunications.html</loc>
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/telecommunications.html"/>
   </url>
   <url>
     <loc>http://uos3.com/mechanisms.html</loc>
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/mechanisms.html"/>
   </url>
   <url>
     <loc>http://uos3.com/data-handling.html</loc>
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/data-handling.html"/>
   </url>
   <url>
     <loc>http://uos3.com/payload.html</loc>
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/payload.html"/>
   </url>
   <url>
     <loc>http://uos3.com/attitude-control.html</loc>
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/attitude-control.html"/>
   </url>
   <url>
     <loc>http://uos3.com/power-raising-and-distribution.html</loc>
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/power-raising-and-distribution.html"/>
   </url>
   <url>
     <loc>http://uos3.com/structural.html</loc>
     <lastmod>2016-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://uos3.com/tablet/structural.html"/>
   </url>
   <url>
     <loc>http://uos3.com/fee.html</loc>

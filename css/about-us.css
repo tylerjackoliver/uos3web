@@ -1,7 +1,7 @@
 .version.about_us /* version checker */
 {
-	color: #0000E3;
-	background-color: #195006;
+	color: #00000D;
+	background-color: #7FF266;
 }
 
 .html
@@ -790,7 +790,7 @@
 	border-radius: 0px 0px 10px 10px ;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../images/susf-ieu5463-fr.png") no-repeat center center;
+	background: #FFFFFF url("../images/susf-ieu6697-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/susf.png") no-repeat center center;
 	background-color: #FFFFFF;
 	background-size: contain;
@@ -823,7 +823,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 710px;
-	background: #FFFFFF url("../images/logo%20(1)-ieu5465-fr.png") no-repeat center center;
+	background: #FFFFFF url("../images/logo%20(1)-ieu6699-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/logo%20(1).jpg") no-repeat center center;
 	background-color: #FFFFFF;
 	background-size: contain;

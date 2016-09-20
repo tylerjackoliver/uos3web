@@ -3,12 +3,19 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.musemenu.js", "artwork.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museredirect.js", "jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.musemenu.js", "artwork.css"], "outOfDate":[]};
+</script>
+  
+  <script src="scripts/museredirect.js?40941066" type="text/javascript"></script>
+  
+  <script type="text/javascript">
+   Muse.Redirect.redirect('desktop', 'tablet/artwork.html', '');
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="2015.0.0.309"/>
   <title>UoS3</title>
+  <link media="only screen and (max-device-width: 960px)" rel="alternate" href="http://uos3.com/tablet/artwork.html"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4022110847"/>
   <link rel="stylesheet" type="text/css" href="css/artwork.css?206893716" id="pagesheet"/>
