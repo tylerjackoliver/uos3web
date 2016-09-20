@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000010;
-	background-color: #C85C7C;
+	color: #00000F;
+	background-color: #62AC48;
 }
 
 .html
@@ -75,6 +75,16 @@
 	margin-top: 412px;
 	left: 178px;
 	-pie-background: rgba(27,20,100,0.67);
+}
+
+#u4301:hover
+{
+	background-color: #383278;
+	background-color: rgba(27,20,100,0.87);
+	width: 864px;
+	min-height: 0px;
+	margin: 412px -10000px 0px 0px;
+	-pie-background: rgba(27,20,100,0.87);
 }
 
 #u686-4
