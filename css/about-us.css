@@ -1,7 +1,7 @@
 .version.about_us /* version checker */
 {
-	color: #000013;
-	background-color: #952A52;
+	color: #0000E3;
+	background-color: #195006;
 }
 
 .html
@@ -146,7 +146,7 @@
 #menuu4202
 {
 	z-index: 63;
-	width: 670px;
+	width: 596px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -242,93 +242,6 @@
 	font-weight: normal;
 }
 
-#u4259
-{
-	width: 72px;
-	min-height: 35px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 100px;
-}
-
-#u4260
-{
-	width: 72px;
-	background-color: transparent;
-	border-radius: 5px;
-	padding-bottom: 16px;
-	position: relative;
-}
-
-#u4260:hover
-{
-	background-color: #FFFFFF;
-	border-radius: 3px;
-	width: 72px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u4262-4
-{
-	width: 43px;
-	min-height: 19px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
-	color: #FFFFFF;
-	font-family: coda, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	top: 8px;
-	left: 14px;
-}
-
-#u4260:hover #u4262-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	width: 43px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u4260:active #u4262-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	width: 43px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u4260.MuseMenuActive #u4262-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	width: 43px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u4260:hover #u4262-4 p
-{
-	color: #2E3192;
-	visibility: inherit;
-}
-
-#u4260:active #u4262-4 p
-{
-	color: #2E3192;
-	visibility: inherit;
-	font-weight: normal;
-}
-
 #u4224
 {
 	width: 114px;
@@ -336,7 +249,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 174px;
+	left: 100px;
 }
 
 #u4241
@@ -423,7 +336,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 290px;
+	left: 216px;
 }
 
 #u4255
@@ -510,7 +423,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 374px;
+	left: 300px;
 }
 
 #u4213
@@ -597,7 +510,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 464px;
+	left: 390px;
 }
 
 #u4206
@@ -684,7 +597,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 589px;
+	left: 515px;
 }
 
 #u4248
@@ -764,7 +677,7 @@
 	font-weight: normal;
 }
 
-#u4220.MuseMenuActive #u4223-4 p,#u4260.MuseMenuActive #u4262-4 p,#u4241.MuseMenuActive #u4244-5 p,#u4241.MuseMenuActive #u4244-5 span,#u4255.MuseMenuActive #u4258-4 p,#u4213.MuseMenuActive #u4216-4 p,#u4206.MuseMenuActive #u4207-4 p,#u4248.MuseMenuActive #u4249-4 p
+#u4220.MuseMenuActive #u4223-4 p,#u4241.MuseMenuActive #u4244-5 p,#u4241.MuseMenuActive #u4244-5 span,#u4255.MuseMenuActive #u4258-4 p,#u4213.MuseMenuActive #u4216-4 p,#u4206.MuseMenuActive #u4207-4 p,#u4248.MuseMenuActive #u4249-4 p
 {
 	color: #1B1464;
 	visibility: inherit;

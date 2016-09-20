@@ -1,7 +1,7 @@
 .version.phyast /* version checker */
 {
-	color: #00001D;
-	background-color: #A954C8;
+	color: #000011;
+	background-color: #62170F;
 }
 
 .html
@@ -152,7 +152,7 @@
 #menuu6073
 {
 	z-index: 16;
-	width: 670px;
+	width: 596px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -248,93 +248,6 @@
 	font-weight: normal;
 }
 
-#u6102
-{
-	width: 72px;
-	min-height: 35px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 100px;
-}
-
-#u6105
-{
-	width: 72px;
-	background-color: transparent;
-	border-radius: 5px;
-	padding-bottom: 16px;
-	position: relative;
-}
-
-#u6105:hover
-{
-	background-color: #FFFFFF;
-	border-radius: 3px;
-	width: 72px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u6107-4
-{
-	width: 43px;
-	min-height: 19px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
-	color: #FFFFFF;
-	font-family: coda, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	top: 8px;
-	left: 14px;
-}
-
-#u6105:hover #u6107-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	width: 43px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u6105:active #u6107-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	width: 43px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u6105.MuseMenuActive #u6107-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	width: 43px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u6105:hover #u6107-4 p
-{
-	color: #2E3192;
-	visibility: inherit;
-}
-
-#u6105:active #u6107-4 p
-{
-	color: #2E3192;
-	visibility: inherit;
-	font-weight: normal;
-}
-
 #u6095
 {
 	width: 114px;
@@ -342,7 +255,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 174px;
+	left: 100px;
 }
 
 #u6096
@@ -429,7 +342,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 290px;
+	left: 216px;
 }
 
 #u6117
@@ -516,7 +429,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 374px;
+	left: 300px;
 }
 
 #u6084
@@ -603,7 +516,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 464px;
+	left: 390px;
 }
 
 #u6089
@@ -690,7 +603,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 589px;
+	left: 515px;
 }
 
 #u6075
@@ -770,7 +683,7 @@
 	font-weight: normal;
 }
 
-#u6110.MuseMenuActive #u6112-4 p,#u6105.MuseMenuActive #u6107-4 p,#u6096.MuseMenuActive #u6098-5 p,#u6096.MuseMenuActive #u6098-5 span,#u6117.MuseMenuActive #u6119-4 p,#u6084.MuseMenuActive #u6086-4 p,#u6089.MuseMenuActive #u6092-4 p,#u6075.MuseMenuActive #u6076-4 p
+#u6110.MuseMenuActive #u6112-4 p,#u6096.MuseMenuActive #u6098-5 p,#u6096.MuseMenuActive #u6098-5 span,#u6117.MuseMenuActive #u6119-4 p,#u6084.MuseMenuActive #u6086-4 p,#u6089.MuseMenuActive #u6092-4 p,#u6075.MuseMenuActive #u6076-4 p
 {
 	color: #1B1464;
 	visibility: inherit;
@@ -804,7 +717,7 @@
 
 #u6123-4
 {
-	z-index: 60;
+	z-index: 54;
 	width: 980px;
 	min-height: 352px;
 	background-color: transparent;
