@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474386489464">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474389927145">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="487639214" ref="tablet>power-raising-and-distribution:tablet>attitude-control:tablet>payload:tablet>mechanisms:tablet>education:tablet>data-handling:tablet>publicity:tablet>systems-overview:tablet>artwork:tablet>scientific:tablet>index:tablet>about-uos3:tablet>amsat:tablet>publications:tablet>about-us:tablet>subsystems:tablet>ground-station:tablet>structural:tablet>telecommunications"/>
@@ -28,7 +28,7 @@
     <file name="publicity.html" crc="442165481" seo="true" mt="1474386352774" redirect="true"/>
     <file name="scientific.html" crc="423446188" seo="true" mt="1474386352774" redirect="true"/>
     <file name="publications.html" crc="3922665274" seo="true" mt="1474386443244" redirect="true"/>
-    <file name="about-uos3.html" crc="4141104640" seo="true" mt="1474386455607" redirect="true"/>
+    <file name="about-uos3.html" crc="3804601846" seo="true" mt="1474389923775" redirect="true"/>
     <file name="subsystems.html" crc="3936488317" seo="true" mt="1474386352774" redirect="true"/>
     <file name="ground-station.html" crc="4254899757" seo="true" mt="1474386352774" redirect="true"/>
     <file name="structural.html" crc="363251160" seo="true" mt="1474386352774" redirect="true"/>
@@ -52,7 +52,7 @@
     <file name="systems-overview.css" crc="454776416" ref="systems-overview"/>
     <file name="amsat.css" crc="299129327" ref="amsat"/>
     <file name="index.css" crc="3852645580" ref="index"/>
-    <file name="publications.css" crc="74170315" ref="publications"/>
+    <file name="publications.css" crc="3990223822" ref="publications"/>
     <file name="subsystems.css" crc="435606930" ref="subsystems"/>
     <file name="about-us.css" crc="226488934" ref="about-us"/>
     <file name="publicity.css" crc="3888328918" ref="publicity"/>
@@ -94,8 +94,8 @@
   <folder name="images">
     <file name="pattern-89ds.jpg" crc="384133898" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:publications"/>
     <file name="8jb1210.jpg" crc="4244271330" ref="index:tablet>index"/>
-    <file name="uos3.png" crc="4177394738" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:publications:systems-overview:subsystems:ground-station:telecommunications:mechanisms:data-handling:payload:attitude-control:power-raising-and-distribution:structural:fee:ecs:susf:full-list:suws-:phyast:tablet>index"/>
-    <file name="uos3_2x.png" crc="4263405452" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:publications:systems-overview:subsystems:ground-station:telecommunications:mechanisms:data-handling:payload:attitude-control:power-raising-and-distribution:structural:fee:ecs:susf:full-list:suws-:phyast:tablet>index"/>
+    <file name="uos3.png" crc="4177394738" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:publications:systems-overview:subsystems:ground-station:telecommunications:mechanisms:data-handling:payload:attitude-control:power-raising-and-distribution:structural:fee:ecs:susf:full-list:suws-:phyast:tablet>index:tablet>about-uos3"/>
+    <file name="uos3_2x.png" crc="4263405452" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:publications:systems-overview:subsystems:ground-station:telecommunications:mechanisms:data-handling:payload:attitude-control:power-raising-and-distribution:structural:fee:ecs:susf:full-list:suws-:phyast:tablet>index:tablet>about-uos3"/>
     <file name="u685-4-a.png" crc="4045450738" ref="index"/>
     <file name="u685-4-a_2x.png" crc="365598894" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="gallery"/>
@@ -361,13 +361,13 @@
   <file name="index.html" crc="4205937698" seo="true" mt="1474384676277" redirect="true"/>
   <file name="about-us.html" crc="163506662" seo="true" mt="1474384545681" redirect="true"/>
   <file name="mission-objective.html" crc="3973656235" seo="true" mt="1474385381093" redirect="true"/>
-  <file name="about-uos3.html" crc="4148538490" seo="true" mt="1474386455610" redirect="true"/>
+  <file name="about-uos3.html" crc="387181250" seo="true" mt="1474389923778" redirect="true"/>
   <file name="gallery.html" crc="202804074" seo="true" mt="1474386340176" redirect="true"/>
   <file name="artwork.html" crc="4038755454" seo="true" mt="1474384548387" redirect="true"/>
   <file name="amsat.html" crc="4111644512" seo="true" mt="1474384548496" redirect="true"/>
   <file name="subsystems.html" crc="4053933366" seo="true" mt="1474384547167" redirect="true"/>
   <file name="systems-overview.html" crc="10679733" seo="true" mt="1474384548168" redirect="true"/>
-  <file name="publications.html" crc="401554248" seo="true" mt="1474384546927" redirect="true"/>
+  <file name="publications.html" crc="326931533" seo="true" mt="1474389915351" redirect="true"/>
   <file name="publicity.html" crc="119171142" seo="true" mt="1474384546691" redirect="false"/>
   <file name="education.html" crc="113501395" seo="true" mt="1474384546585" redirect="false"/>
   <file name="scientific.html" crc="27404831" seo="true" mt="1474384546819" redirect="false"/>

@@ -1,7 +1,7 @@
 .version.publications /* version checker */
 {
-	color: #000004;
-	background-color: #6BBFCB;
+	color: #0000ED;
+	background-color: #D5FBCE;
 }
 
 .html
@@ -29,7 +29,7 @@
 
 #u5864
 {
-	z-index: 43;
+	z-index: 60;
 	height: 76px;
 	background-color: #1B1464;
 	position: fixed;
@@ -38,7 +38,7 @@
 
 #u5864-bw
 {
-	z-index: 43;
+	z-index: 60;
 }
 
 #pu5860
@@ -49,7 +49,7 @@
 
 #u5860
 {
-	z-index: 36;
+	z-index: 53;
 	min-height: 440px;
 	padding-bottom: 286px;
 	background: transparent url("../images/20160223_172338.jpg") no-repeat center center;
@@ -58,7 +58,7 @@
 
 #u5863
 {
-	z-index: 42;
+	z-index: 59;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -72,7 +72,7 @@
 
 #u5861
 {
-	z-index: 37;
+	z-index: 54;
 	width: 415px;
 	height: 75px;
 	border-width: 1px;
@@ -90,13 +90,13 @@
 
 #u5860-bw
 {
-	z-index: 36;
+	z-index: 53;
 	min-height: 440px;
 }
 
 #u5862-4
 {
-	z-index: 38;
+	z-index: 55;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -115,7 +115,7 @@
 
 #u5865
 {
-	z-index: 44;
+	z-index: 61;
 	width: 94px;
 	height: 90px;
 	position: fixed;
@@ -133,7 +133,7 @@
 
 #u5866-4
 {
-	z-index: 45;
+	z-index: 62;
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
@@ -150,7 +150,7 @@
 
 #menuu5867
 {
-	z-index: 49;
+	z-index: 66;
 	width: 596px;
 	border-style: none;
 	border-color: transparent;
@@ -693,7 +693,7 @@
 	cursor: pointer;
 }
 
-#u6167-29
+#u6167-46
 {
 	z-index: 3;
 	width: 980px;
@@ -708,12 +708,6 @@
 	position: relative;
 }
 
-#u6167-21
-{
-	font-size: 14px;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
 #u6167-18
 {
 	font-size: 15px;
@@ -721,13 +715,19 @@
 	line-height: 0px;
 }
 
-#u6167-3,#u6167-4,#u6167-17,#u6167-19
+#u6167-21,#u6167-38
+{
+	font-size: 14px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u6167-3,#u6167-4,#u6167-17,#u6167-19,#u6167-30,#u6167-31,#u6167-32,#u6167-33,#u6167-34,#u6167-35,#u6167-37
 {
 	font-size: 22px;
 	line-height: 26px;
 }
 
-#u6167-8,#u6167-10,#u6167-12,#u6167-13,#u6167-14,#u6167-15,#u6167-16,#u6167-24,#u6167-27
+#u6167-8,#u6167-10,#u6167-12,#u6167-13,#u6167-14,#u6167-15,#u6167-16,#u6167-24,#u6167-27,#u6167-28,#u6167-29,#u6167-42,#u6167-44
 {
 	font-size: 14px;
 }
@@ -737,6 +737,7 @@
 	z-index: 2;
 	min-height: 215px;
 	background-color: #1B1464;
+	padding-bottom: 252px;
 }
 
 #u5860_align_to_page,#u1620_align_to_page
@@ -750,7 +751,7 @@
 
 #u1698-4
 {
-	z-index: 32;
+	z-index: 49;
 	display: block;
 	vertical-align: top;
 	position: relative;
