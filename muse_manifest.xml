@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474369133639">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474370984619">
   <folder name="assets">
     <file name="ewme_workshop_paper_submission.pdf" crc="4026474968" seo="true" mt="1474364589000"/>
     <file name="__filestore.soton.ac.uk_users_al11g09_mydocuments_phd_conferences_1st-symposium-on-space-eduactional-activities_a623-lidtke.pdf" crc="115373596" seo="true" mt="1474364593000"/>
@@ -11,7 +11,7 @@
     <file name="index.css" crc="258124872" ref="index"/>
     <file name="publications.css" crc="122296800" ref="publications"/>
     <file name="subsystems.css" crc="348743092" ref="subsystems"/>
-    <file name="about-us.css" crc="149541129" ref="about-us"/>
+    <file name="about-us.css" crc="328542802" ref="about-us"/>
     <file name="publicity.css" crc="3888328918" ref="publicity"/>
     <file name="mission-objective.css" crc="28391732" ref="mission-objective"/>
     <file name="education.css" crc="3888328918" ref="education"/>
@@ -267,9 +267,9 @@
     <file name="u6069-4_2x.png" crc="4152029548" ref="phyast"/>
   </folder>
   <file name="index.html" crc="4105772226" seo="true" mt="1474365084640" redirect="true"/>
-  <file name="about-us.html" crc="4047475858" seo="true" mt="1474368624597" redirect="true"/>
+  <file name="about-us.html" crc="4047475858" seo="true" mt="1474370974265" redirect="true"/>
   <file name="mission-objective.html" crc="4141843800" seo="true" mt="1474362713427" redirect="true"/>
-  <file name="about-uos3.html" crc="192136077" seo="true" mt="1474369127344" redirect="true"/>
+  <file name="about-uos3.html" crc="192136077" seo="true" mt="1474370981043" redirect="true"/>
   <file name="gallery.html" crc="3897535643" seo="true" mt="1474362992958" redirect="true"/>
   <file name="artwork.html" crc="275962313" seo="true" mt="1474363011654" redirect="true"/>
   <file name="amsat.html" crc="4277169217" seo="true" mt="1474363024201" redirect="true"/>
