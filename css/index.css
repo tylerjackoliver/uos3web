@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E5;
-	background-color: #A2B4CC;
+	color: #0000E6;
+	background-color: #B47DF6;
 }
 
 .html
@@ -185,10 +185,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -272,10 +272,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -359,10 +359,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -446,10 +446,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -533,10 +533,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -620,10 +620,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -686,8 +686,8 @@
 #pu293
 {
 	width: 0.01px;
-	margin-left: -295px;
-	margin-top: 70px;
+	margin-left: -300px;
+	margin-top: 83px;
 }
 
 #u293
@@ -708,10 +708,10 @@
 	width: 833px;
 	min-height: 59px;
 	background-color: transparent;
-	text-transform: uppercase;
-	text-align: center;
 	font-size: 48px;
 	line-height: 58px;
+	text-transform: uppercase;
+	text-align: center;
 	color: #1B1464;
 	font-family: coda, sans-serif;
 	font-weight: 400;
@@ -742,10 +742,10 @@
 	width: 267px;
 	min-height: 260px;
 	background-color: transparent;
-	line-height: 20px;
-	text-align: center;
-	font-size: 17px;
 	color: #1B1464;
+	font-size: 17px;
+	text-align: center;
+	line-height: 20px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -760,10 +760,10 @@
 	width: 312px;
 	min-height: 260px;
 	background-color: transparent;
-	line-height: 20px;
-	text-align: center;
-	font-size: 17px;
 	color: #1B1464;
+	font-size: 17px;
+	text-align: center;
+	line-height: 20px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -837,10 +837,10 @@
 	width: 267px;
 	min-height: 260px;
 	background-color: transparent;
-	line-height: 20px;
-	text-align: center;
-	font-size: 17px;
 	color: #1B1464;
+	font-size: 17px;
+	text-align: center;
+	line-height: 20px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -866,7 +866,7 @@
 {
 	width: 0.01px;
 	padding-bottom: 260px;
-	margin-left: 25px;
+	margin-left: 20px;
 	margin-top: -261px;
 }
 
@@ -878,8 +878,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	position: fixed;
-	top: 1296px;
-	left: 25px;
+	top: 1309px;
+	left: 20px;
 }
 
 #u305
@@ -911,8 +911,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	position: fixed;
-	top: 1296px;
-	left: 693px;
+	top: 1309px;
+	left: 688px;
 }
 
 #u297
@@ -946,7 +946,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 97px;
+	margin-top: 84px;
 }
 
 #u307
@@ -987,10 +987,10 @@
 	width: 980px;
 	min-height: 79px;
 	background-color: transparent;
-	text-align: center;
 	font-size: 40px;
 	line-height: 48px;
 	letter-spacing: 2px;
+	text-align: center;
 	color: #1B1464;
 	font-family: coda, sans-serif;
 	font-weight: 400;
@@ -1020,46 +1020,16 @@
 #u309
 {
 	z-index: 63;
-	min-height: 221px;
+	height: 221px;
 	background-color: #1B1464;
-}
-
-#u309_align_to_page
-{
-	margin-left: auto;
-	margin-right: auto;
-	width: 1020px;
-	position: relative;
-	left: -100px;
-	padding-top: 38px;
-	padding-bottom: 111px;
-	margin-bottom: -1px;
-}
-
-#u4308-4
-{
-	z-index: 120;
-	display: block;
-	vertical-align: top;
-	left: 846px;
-	position: relative;
-}
-
-#u4316-4
-{
-	z-index: 124;
-	display: block;
-	vertical-align: top;
-	left: 859px;
-	margin-top: 14px;
-	position: relative;
 }
 
 #u309-bw
 {
 	z-index: 63;
-	min-height: 221px;
 	margin-top: -1px;
+	margin-bottom: -1px;
+	height: 221px;
 }
 
 body

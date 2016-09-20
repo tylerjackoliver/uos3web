@@ -1,7 +1,7 @@
 .version.gallery /* version checker */
 {
-	color: #0000EF;
-	background-color: #25B904;
+	color: #0000F1;
+	background-color: #B9FBDF;
 }
 
 .html
@@ -85,7 +85,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 352px;
-	left: 484px;
+	left: 481px;
 	-pie-background: rgba(27,20,100,0.67);
 }
 
@@ -137,9 +137,9 @@
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
-	line-height: 28px;
-	font-size: 23px;
 	color: #FFFFFF;
+	font-size: 23px;
+	line-height: 28px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -195,10 +195,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -282,10 +282,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -369,10 +369,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -456,10 +456,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -543,10 +543,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -630,10 +630,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -888,8 +888,8 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 229px;
@@ -910,8 +910,8 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
-	line-height: 20px;
 	text-align: center;
+	line-height: 20px;
 	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 229px;

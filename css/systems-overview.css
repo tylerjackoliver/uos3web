@@ -1,7 +1,7 @@
 .version.systems_overview /* version checker */
 {
-	color: #00001B;
-	background-color: #1B5660;
+	color: #0000F8;
+	background-color: #022268;
 }
 
 .html
@@ -50,8 +50,8 @@
 #u4318
 {
 	z-index: 3;
-	min-height: 452px;
-	padding-bottom: 274px;
+	min-height: 448px;
+	padding-bottom: 278px;
 	background: transparent url("../images/20151202_101558.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -92,15 +92,15 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 346px;
-	left: 340px;
+	margin-top: 342px;
+	left: 331px;
 	-pie-background: rgba(27,20,100,0.67);
 }
 
 #u4318-bw
 {
 	z-index: 3;
-	min-height: 452px;
+	min-height: 448px;
 }
 
 #u4327-4
@@ -111,7 +111,6 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 373px;
-	left: 11px;
 }
 
 #pu4329
@@ -146,9 +145,9 @@
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
-	line-height: 28px;
-	font-size: 23px;
 	color: #FFFFFF;
+	font-size: 23px;
+	line-height: 28px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -204,10 +203,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -291,10 +290,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -378,10 +377,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -465,10 +464,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -552,10 +551,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -639,10 +638,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -715,9 +714,9 @@
 	width: 980px;
 	min-height: 567px;
 	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
 	color: #1B1464;
+	font-size: 16px;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -743,10 +742,10 @@
 	width: 980px;
 	min-height: 16px;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #1B1464;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	margin-left: 20px;

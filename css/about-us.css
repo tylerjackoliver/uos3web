@@ -1,7 +1,7 @@
 .version.about_us /* version checker */
 {
-	color: #00000D;
-	background-color: #7FF266;
+	color: #00001E;
+	background-color: #A15F05;
 }
 
 .html
@@ -132,9 +132,9 @@
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
-	line-height: 28px;
-	font-size: 23px;
 	color: #FFFFFF;
+	font-size: 23px;
+	line-height: 28px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -190,10 +190,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -277,10 +277,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -364,10 +364,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -451,10 +451,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -538,10 +538,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -625,10 +625,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -694,9 +694,9 @@
 	width: 1020px;
 	min-height: 167px;
 	background-color: transparent;
-	line-height: 19px;
-	font-size: 16px;
 	color: #1B1464;
+	font-size: 16px;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	margin-top: 42px;
@@ -790,7 +790,7 @@
 	border-radius: 0px 0px 10px 10px ;
 	position: relative;
 	margin-right: -10000px;
-	background: #FFFFFF url("../images/susf-ieu6697-fr.png") no-repeat center center;
+	background: #FFFFFF url("../images/susf-ieu5463-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/susf.png") no-repeat center center;
 	background-color: #FFFFFF;
 	background-size: contain;
@@ -823,7 +823,7 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 710px;
-	background: #FFFFFF url("../images/logo%20(1)-ieu6699-fr.png") no-repeat center center;
+	background: #FFFFFF url("../images/logo%20(1)-ieu5465-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/logo%20(1).jpg") no-repeat center center;
 	background-color: #FFFFFF;
 	background-size: contain;
@@ -933,11 +933,11 @@
 #u5663
 {
 	z-index: 36;
-	width: 1020px;
+	width: 1000px;
 	background-color: #1B1464;
 	border-radius: 10px;
-	padding-bottom: 25px;
-	left: -13px;
+	padding-bottom: 34px;
+	margin-left: 20px;
 	margin-top: 59px;
 	position: relative;
 }
@@ -945,19 +945,18 @@
 #u5663:hover
 {
 	background-color: #2E3192;
-	width: 1020px;
+	width: 1000px;
 	min-height: 0px;
-	margin: 59px 0px 0px;
+	margin: 59px 0px 0px 20px;
 }
 
 #u5665-4
 {
 	z-index: 37;
 	position: relative;
-	width: 980px;
+	width: 1000px;
 	margin-right: -10000px;
-	margin-top: 21px;
-	left: 20px;
+	margin-top: 33px;
 }
 
 #u5461-4_img,#u5467-4_img,#u5464-4_img,#u5936-4_img,#u5939-4_img,#u5665-4_img

@@ -1,7 +1,7 @@
 .version.fee /* version checker */
 {
-	color: #0000FE;
-	background-color: #B07499;
+	color: #0000F8;
+	background-color: #FD5C3B;
 }
 
 .html
@@ -75,14 +75,14 @@
 #u5548
 {
 	z-index: 5;
-	width: 999px;
+	width: 1019px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: #666197;
 	background-color: rgba(27,20,100,0.67);
 	border-radius: 10px;
-	left: 120px;
+	left: 100px;
 	margin-top: 111px;
 	position: relative;
 	-pie-background: rgba(27,20,100,0.67);
@@ -96,7 +96,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 16px;
-	left: -1px;
+	left: -101px;
 }
 
 #u5546-bw
@@ -137,9 +137,9 @@
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
-	line-height: 28px;
-	font-size: 23px;
 	color: #FFFFFF;
+	font-size: 23px;
+	line-height: 28px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -195,10 +195,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -282,10 +282,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -369,10 +369,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -456,10 +456,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -543,10 +543,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -630,10 +630,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;

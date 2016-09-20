@@ -1,7 +1,7 @@
 .version.publications /* version checker */
 {
-	color: #0000ED;
-	background-color: #D5FBCE;
+	color: #0000E8;
+	background-color: #248E9E;
 }
 
 .html
@@ -13,11 +13,12 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 940px;
+	min-height: 1593.832636990428px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -25,20 +26,6 @@
 #page_position_content
 {
 	width: 0.01px;
-}
-
-#u5864
-{
-	z-index: 60;
-	height: 76px;
-	background-color: #1B1464;
-	position: fixed;
-	top: 0px;
-}
-
-#u5864-bw
-{
-	z-index: 60;
 }
 
 #pu5860
@@ -49,16 +36,25 @@
 
 #u5860
 {
-	z-index: 53;
+	z-index: 44;
 	min-height: 440px;
 	padding-bottom: 286px;
 	background: transparent url("../images/20160223_172338.jpg") no-repeat center center;
 	background-size: cover;
 }
 
+#u5860_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1020px;
+	position: relative;
+	left: -100px;
+}
+
 #u5863
 {
-	z-index: 59;
+	z-index: 50;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -72,8 +68,8 @@
 
 #u5861
 {
-	z-index: 54;
-	width: 415px;
+	z-index: 45;
+	width: 412px;
 	height: 75px;
 	border-width: 1px;
 	border-style: solid;
@@ -84,38 +80,51 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 363px;
-	left: 403px;
+	left: 404px;
 	-pie-background: rgba(27,20,100,0.67);
 }
 
 #u5860-bw
 {
-	z-index: 53;
+	z-index: 44;
 	min-height: 440px;
 }
 
 #u5862-4
 {
-	z-index: 55;
+	z-index: 46;
 	display: block;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 378px;
-	left: 100px;
 }
 
-#pu5865
+#pu5864
 {
 	width: 0.01px;
-	padding-bottom: 90px;
 	margin-left: -100px;
-	margin-top: -725px;
+	margin-top: -726px;
+	padding: 30px 1120px 61px 100px;
+}
+
+#u5864
+{
+	z-index: 51;
+	height: 76px;
+	background-color: #1B1464;
+	position: fixed;
+	top: 0px;
+}
+
+#u5864-bw
+{
+	z-index: 51;
 }
 
 #u5865
 {
-	z-index: 61;
+	z-index: 52;
 	width: 94px;
 	height: 90px;
 	position: fixed;
@@ -133,13 +142,13 @@
 
 #u5866-4
 {
-	z-index: 62;
+	z-index: 53;
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
-	line-height: 28px;
-	font-size: 23px;
 	color: #FFFFFF;
+	font-size: 23px;
+	line-height: 28px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -150,7 +159,7 @@
 
 #menuu5867
 {
-	z-index: 66;
+	z-index: 57;
 	width: 596px;
 	border-style: none;
 	border-color: transparent;
@@ -195,10 +204,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -282,10 +291,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -369,10 +378,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -456,10 +465,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -543,10 +552,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -630,10 +639,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
 	color: #FFFFFF;
+	font-size: 16px;
+	text-align: center;
+	line-height: 19px;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -693,78 +702,104 @@
 	cursor: pointer;
 }
 
-#u6167-46
+#u6755-12
 {
-	z-index: 3;
+	z-index: 16;
 	width: 980px;
-	min-height: 377px;
+	min-height: 111px;
 	background-color: transparent;
 	text-align: center;
 	color: #1B1464;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	margin-left: 20px;
-	margin-top: 61px;
+	margin-top: 40px;
 	position: relative;
 }
 
-#u6167-18
+#u6167-13
+{
+	z-index: 3;
+	width: 980px;
+	min-height: 116px;
+	background-color: transparent;
+	text-align: center;
+	color: #1B1464;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+	margin-left: 19px;
+	margin-top: 99px;
+	position: relative;
+}
+
+#u6755-10,#u6167-8,#u6167-10,#u6167-11
+{
+	font-size: 14px;
+}
+
+#u6756-16
+{
+	z-index: 28;
+	width: 980px;
+	min-height: 122px;
+	background-color: transparent;
+	margin-left: 20px;
+	margin-top: 99px;
+	position: relative;
+}
+
+#u6756-5
+{
+	font-size: 14px;
+	text-align: center;
+	color: #1B1464;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u6756-2
 {
 	font-size: 15px;
 	vertical-align: 7px;
 	line-height: 0px;
 }
 
-#u6167-21,#u6167-38
-{
-	font-size: 14px;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u6167-3,#u6167-4,#u6167-17,#u6167-19,#u6167-30,#u6167-31,#u6167-32,#u6167-33,#u6167-34,#u6167-35,#u6167-37
+#u6755-4,#u6167-3,#u6167-4,#u6756,#u6756-3
 {
 	font-size: 22px;
 	line-height: 26px;
 }
 
-#u6167-8,#u6167-10,#u6167-12,#u6167-13,#u6167-14,#u6167-15,#u6167-16,#u6167-24,#u6167-27,#u6167-28,#u6167-29,#u6167-42,#u6167-44
+#u6756-8,#u6756-11
 {
 	font-size: 14px;
+	text-align: center;
+	color: #1B1464;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+}
+
+#u6756-6,#u6756-9,#u6756-12,#u6756-13
+{
+	text-align: center;
+	color: #1B1464;
+	font-family: coda, sans-serif;
+	font-weight: 400;
 }
 
 #u1620
 {
 	z-index: 2;
-	min-height: 215px;
+	height: 259px;
 	background-color: #1B1464;
-	padding-bottom: 252px;
-}
-
-#u5860_align_to_page,#u1620_align_to_page
-{
-	margin-left: auto;
-	margin-right: auto;
-	width: 1020px;
-	position: relative;
-	left: -100px;
-}
-
-#u1698-4
-{
-	z-index: 49;
-	display: block;
-	vertical-align: top;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 192px;
-	left: 774px;
 }
 
 #u1620-bw
 {
 	z-index: 2;
-	min-height: 215px;
-	margin-top: 265px;
+	margin-top: 98px;
+	height: 259px;
 }
 
 body

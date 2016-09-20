@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474390450347">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474397984239">
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="487639214" ref="tablet>power-raising-and-distribution:tablet>attitude-control:tablet>payload:tablet>mechanisms:tablet>education:tablet>data-handling:tablet>publicity:tablet>systems-overview:tablet>artwork:tablet>scientific:tablet>index:tablet>about-uos3:tablet>amsat:tablet>publications:tablet>about-us:tablet>subsystems:tablet>ground-station:tablet>structural:tablet>telecommunications"/>
+      <file name="master_a-master.css" crc="3806131780" ref="tablet>power-raising-and-distribution:tablet>attitude-control:tablet>payload:tablet>mechanisms:tablet>education:tablet>data-handling:tablet>publicity:tablet>systems-overview:tablet>artwork:tablet>scientific:tablet>index:tablet>about-uos3:tablet>amsat:tablet>publications:tablet>about-us:tablet>subsystems:tablet>ground-station:tablet>structural:tablet>telecommunications"/>
       <file name="power-raising-and-distribution.css" crc="4249235174" ref="tablet>power-raising-and-distribution"/>
       <file name="attitude-control.css" crc="4249235174" ref="tablet>attitude-control"/>
       <file name="payload.css" crc="4249235174" ref="tablet>payload"/>
@@ -28,7 +28,7 @@
     <file name="publicity.html" crc="442165481" seo="true" mt="1474386352774" redirect="true"/>
     <file name="scientific.html" crc="423446188" seo="true" mt="1474386352774" redirect="true"/>
     <file name="publications.html" crc="3922665274" seo="true" mt="1474386443244" redirect="true"/>
-    <file name="about-uos3.html" crc="3804601846" seo="true" mt="1474390447012" redirect="true"/>
+    <file name="about-uos3.html" crc="3804601846" seo="true" mt="1474397933878" redirect="true"/>
     <file name="subsystems.html" crc="3936488317" seo="true" mt="1474386352774" redirect="true"/>
     <file name="ground-station.html" crc="4254899757" seo="true" mt="1474386352774" redirect="true"/>
     <file name="structural.html" crc="363251160" seo="true" mt="1474386352774" redirect="true"/>
@@ -48,26 +48,26 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4022110847"/>
-    <file name="artwork.css" crc="206893716" ref="artwork"/>
-    <file name="systems-overview.css" crc="454776416" ref="systems-overview"/>
-    <file name="amsat.css" crc="299129327" ref="amsat"/>
-    <file name="index.css" crc="3852645580" ref="index"/>
-    <file name="publications.css" crc="3990223822" ref="publications"/>
-    <file name="subsystems.css" crc="435606930" ref="subsystems"/>
-    <file name="about-us.css" crc="226488934" ref="about-us"/>
+    <file name="artwork.css" crc="205053291" ref="artwork"/>
+    <file name="systems-overview.css" crc="4160889448" ref="systems-overview"/>
+    <file name="amsat.css" crc="249187795" ref="amsat"/>
+    <file name="index.css" crc="3870588406" ref="index"/>
+    <file name="publications.css" crc="3894709918" ref="publications"/>
+    <file name="subsystems.css" crc="3808302452" ref="subsystems"/>
+    <file name="about-us.css" crc="513892101" ref="about-us"/>
     <file name="publicity.css" crc="3888328918" ref="publicity"/>
-    <file name="mission-objective.css" crc="3856909504" ref="mission-objective"/>
+    <file name="mission-objective.css" crc="4182252680" ref="mission-objective"/>
     <file name="education.css" crc="3888328918" ref="education"/>
-    <file name="about-uos3.css" crc="4105527197" ref="about-uos3"/>
+    <file name="about-uos3.css" crc="271470860" ref="about-uos3"/>
     <file name="scientific.css" crc="3888328918" ref="scientific"/>
-    <file name="gallery.css" crc="4012226820" ref="gallery"/>
+    <file name="gallery.css" crc="4055497695" ref="gallery"/>
     <file name="data-handling.css" crc="3898885389" ref="data-handling"/>
     <file name="telecommunications.css" crc="229443068" ref="telecommunications"/>
     <file name="mechanisms.css" crc="276059230" ref="mechanisms"/>
     <file name="payload.css" crc="3991175051" ref="payload"/>
     <file name="power-raising-and-distribution.css" crc="441508309" ref="power-raising-and-distribution"/>
     <file name="attitude-control.css" crc="410049184" ref="attitude-control"/>
-    <file name="fee.css" crc="4272977049" ref="fee"/>
+    <file name="fee.css" crc="4177353787" ref="fee"/>
     <file name="ground-station.css" crc="85589794" ref="ground-station"/>
     <file name="ecs.css" crc="4284356231" ref="ecs"/>
     <file name="structural.css" crc="533433940" ref="structural"/>
@@ -172,8 +172,6 @@
     <file name="20150922_175326.jpg" crc="145874975" ref="amsat"/>
     <file name="u1499-4.png" crc="4190520052" ref="amsat"/>
     <file name="u1499-4_2x.png" crc="80266164" ref="amsat"/>
-    <file name="u1698-4.png" crc="2789230" ref="publications"/>
-    <file name="u1698-4_2x.png" crc="332622249" ref="publications"/>
     <file name="u686-4.png" crc="280725832" ref="index"/>
     <file name="u686-4_2x.png" crc="179716184" ref="index"/>
     <file name="u852-4.png" crc="96527178" ref="about-us"/>
@@ -188,10 +186,6 @@
     <file name="u950-4_2x.png" crc="184669925" ref="mission-objective"/>
     <file name="u1430-4.png" crc="4206271394" ref="amsat"/>
     <file name="u1430-4_2x.png" crc="171825422" ref="amsat"/>
-    <file name="u4308-4.png" crc="331212420" ref="index"/>
-    <file name="u4308-4_2x.png" crc="359147311" ref="index"/>
-    <file name="u4316-4.png" crc="251280362" ref="index"/>
-    <file name="u4316-4_2x.png" crc="4290314308" ref="index"/>
     <file name="20151202_101558.jpg" crc="3963413299" ref="systems-overview:tablet>systems-overview"/>
     <file name="u4327-4.png" crc="186667834" ref="systems-overview"/>
     <file name="u4327-4_2x.png" crc="156982668" ref="systems-overview"/>
@@ -264,10 +258,10 @@
     <file name="u5464-4.png" crc="4144166296" ref="about-us"/>
     <file name="u5464-4_2x.png" crc="54778320" ref="about-us"/>
     <file name="susf.png" crc="493926490" ref="about-us:tablet>about-us"/>
-    <file name="u5665-4.png" crc="439954001" ref="about-us"/>
-    <file name="u5665-4_2x.png" crc="15827370" ref="about-us"/>
-    <file name="u5549-4.png" crc="393233044" ref="fee"/>
-    <file name="u5549-4_2x.png" crc="4099199708" ref="fee"/>
+    <file name="u5665-4.png" crc="3870260017" ref="about-us"/>
+    <file name="u5665-4_2x.png" crc="520841729" ref="about-us"/>
+    <file name="u5549-4.png" crc="398788139" ref="fee"/>
+    <file name="u5549-4_2x.png" crc="215591714" ref="fee"/>
     <file name="u5608-4.png" crc="3796015667" ref="ecs"/>
     <file name="u5608-4_2x.png" crc="4172396880" ref="ecs"/>
     <file name="u5395-4.png" crc="3961296861" ref="susf"/>
@@ -289,8 +283,8 @@
     <file name="175_1381334077.png" crc="195212950" ref="about-us:tablet>about-us"/>
     <file name="175_1381334077_2x.png" crc="4285889034" ref="about-us:tablet>about-us"/>
     <file name="20160223_172338.jpg" crc="441373982" ref="publications:tablet>publications"/>
-    <file name="u5862-4.png" crc="265258125" ref="publications"/>
-    <file name="u5862-4_2x.png" crc="4216985210" ref="publications"/>
+    <file name="u5862-4.png" crc="255644979" ref="publications"/>
+    <file name="u5862-4_2x.png" crc="3988715970" ref="publications"/>
     <file name="20160916_141353.jpg" crc="4106779105" ref="suws-"/>
     <file name="u5998-4.png" crc="274840534" ref="suws-"/>
     <file name="u5998-4_2x.png" crc="3802552367" ref="suws-"/>
@@ -309,12 +303,12 @@
     <file name="u6691-4_2x.png" crc="422117342" ref="tablet>about-us"/>
     <file name="u6695-4.png" crc="4048194273" ref="tablet>about-us"/>
     <file name="u6695-4_2x.png" crc="4215842241" ref="tablet>about-us"/>
-    <file name="susf-ieu6697-fr.png" crc="493926490" ref="tablet>about-us:about-us"/>
+    <file name="susf-ieu6697-fr.png" crc="493926490" ref="tablet>about-us"/>
     <file name="u6701-4.png" crc="3845197050" ref="tablet>about-us"/>
     <file name="u6701-4_2x.png" crc="3990809933" ref="tablet>about-us"/>
     <file name="u6698-4.png" crc="4144166296" ref="tablet>about-us"/>
     <file name="u6698-4_2x.png" crc="54778320" ref="tablet>about-us"/>
-    <file name="logo (1)-ieu6699-fr.png" crc="4081445713" ref="tablet>about-us:about-us"/>
+    <file name="logo (1)-ieu6699-fr.png" crc="4081445713" ref="tablet>about-us"/>
     <file name="u6707-4.png" crc="393357643" ref="tablet>about-us"/>
     <file name="u6707-4_2x.png" crc="4044167739" ref="tablet>about-us"/>
     <file name="u6704-4.png" crc="3987262871" ref="tablet>about-us"/>
@@ -333,41 +327,51 @@
     <file name="u6745-4_2x.png" crc="276467843" ref="tablet>subsystems"/>
     <file name="u6720-4.png" crc="4087293619" ref="tablet>subsystems"/>
     <file name="u6720-4_2x.png" crc="324841705" ref="tablet>subsystems"/>
-    <file name="amateurfunkantennen-210x157-ieu6722-fr.png" crc="477236574" ref="tablet>subsystems:subsystems"/>
+    <file name="amateurfunkantennen-210x157-ieu6722-fr.png" crc="477236574" ref="tablet>subsystems"/>
     <file name="u6726-4.png" crc="3846740506" ref="tablet>subsystems"/>
     <file name="u6726-4_2x.png" crc="3870849187" ref="tablet>subsystems"/>
-    <file name="blast-shell-structure-210x157-ieu6728-fr.png" crc="296148224" ref="tablet>subsystems:subsystems"/>
+    <file name="blast-shell-structure-210x157-ieu6728-fr.png" crc="296148224" ref="tablet>subsystems"/>
     <file name="u6732-4.png" crc="3993430882" ref="tablet>subsystems"/>
     <file name="u6732-4_2x.png" crc="40711075" ref="tablet>subsystems"/>
-    <file name="ecs1-210x157-ieu6734-fr.png" crc="4100448553" ref="tablet>subsystems:subsystems"/>
+    <file name="ecs1-210x157-ieu6734-fr.png" crc="4100448553" ref="tablet>subsystems"/>
     <file name="u6738-4.png" crc="431582924" ref="tablet>subsystems"/>
     <file name="u6738-4_2x.png" crc="382907235" ref="tablet>subsystems"/>
-    <file name="computer-assembled-210x157-ieu6740-fr.png" crc="421847016" ref="tablet>subsystems:subsystems"/>
+    <file name="computer-assembled-210x157-ieu6740-fr.png" crc="421847016" ref="tablet>subsystems"/>
     <file name="u6723-4.png" crc="472767130" ref="tablet>subsystems"/>
     <file name="u6723-4_2x.png" crc="186619548" ref="tablet>subsystems"/>
-    <file name="2014-12-18-arduinotransmitter-1-210x157-ieu6724-fr.png" crc="87567244" ref="tablet>subsystems:subsystems"/>
+    <file name="2014-12-18-arduinotransmitter-1-210x157-ieu6724-fr.png" crc="87567244" ref="tablet>subsystems"/>
     <file name="u6729-4.png" crc="236859750" ref="tablet>subsystems"/>
     <file name="u6729-4_2x.png" crc="4180089846" ref="tablet>subsystems"/>
-    <file name="jonny-breadboading-cropped-210x157-ieu6730-fr.png" crc="4084021444" ref="tablet>subsystems:subsystems"/>
+    <file name="jonny-breadboading-cropped-210x157-ieu6730-fr.png" crc="4084021444" ref="tablet>subsystems"/>
     <file name="u6735-4.png" crc="220072527" ref="tablet>subsystems"/>
     <file name="u6735-4_2x.png" crc="4066388362" ref="tablet>subsystems"/>
-    <file name="adm1-210x157-ieu6736-fr.png" crc="272044534" ref="tablet>subsystems:subsystems"/>
+    <file name="adm1-210x157-ieu6736-fr.png" crc="272044534" ref="tablet>subsystems"/>
     <file name="u6741-4.png" crc="442655525" ref="tablet>subsystems"/>
     <file name="u6741-4_2x.png" crc="416525755" ref="tablet>subsystems"/>
-    <file name="acs1-210x157-ieu6742-fr.png" crc="4086368151" ref="tablet>subsystems:subsystems"/>
+    <file name="acs1-210x157-ieu6742-fr.png" crc="4086368151" ref="tablet>subsystems"/>
     <file name="u6748-4.png" crc="186667834" ref="tablet>systems-overview"/>
     <file name="u6748-4_2x.png" crc="156982668" ref="tablet>systems-overview"/>
+    <file name="susf-ieu5463-fr.png" crc="493926490" ref="about-us"/>
+    <file name="logo (1)-ieu5465-fr.png" crc="4081445713" ref="about-us"/>
+    <file name="amateurfunkantennen-210x157-ieu4438-fr.png" crc="477236574" ref="subsystems"/>
+    <file name="2014-12-18-arduinotransmitter-1-210x157-ieu4440-fr.png" crc="87567244" ref="subsystems"/>
+    <file name="blast-shell-structure-210x157-ieu4535-fr.png" crc="296148224" ref="subsystems"/>
+    <file name="jonny-breadboading-cropped-210x157-ieu4537-fr.png" crc="4084021444" ref="subsystems"/>
+    <file name="ecs1-210x157-ieu4541-fr.png" crc="4100448553" ref="subsystems"/>
+    <file name="adm1-210x157-ieu4543-fr.png" crc="272044534" ref="subsystems"/>
+    <file name="acs1-210x157-ieu4549-fr.png" crc="4086368151" ref="subsystems"/>
+    <file name="computer-assembled-210x157-ieu4547-fr.png" crc="421847016" ref="subsystems"/>
   </folder>
-  <file name="index.html" crc="4205937698" seo="true" mt="1474384676277" redirect="true"/>
-  <file name="about-us.html" crc="163506662" seo="true" mt="1474384545681" redirect="true"/>
-  <file name="mission-objective.html" crc="3973656235" seo="true" mt="1474385381093" redirect="true"/>
-  <file name="about-uos3.html" crc="387181250" seo="true" mt="1474390447018" redirect="true"/>
-  <file name="gallery.html" crc="202804074" seo="true" mt="1474386340176" redirect="true"/>
-  <file name="artwork.html" crc="4038755454" seo="true" mt="1474384548387" redirect="true"/>
-  <file name="amsat.html" crc="4111644512" seo="true" mt="1474384548496" redirect="true"/>
-  <file name="subsystems.html" crc="4053933366" seo="true" mt="1474384547167" redirect="true"/>
-  <file name="systems-overview.html" crc="10679733" seo="true" mt="1474384548168" redirect="true"/>
-  <file name="publications.html" crc="3965420465" seo="true" mt="1474390417222" redirect="true"/>
+  <file name="index.html" crc="3847972281" seo="true" mt="1474397013338" redirect="true"/>
+  <file name="about-us.html" crc="4148280535" seo="true" mt="1474397090490" redirect="true"/>
+  <file name="mission-objective.html" crc="198292817" seo="true" mt="1474397436293" redirect="true"/>
+  <file name="about-uos3.html" crc="387181250" seo="true" mt="1474397933882" redirect="true"/>
+  <file name="gallery.html" crc="444043908" seo="true" mt="1474397627184" redirect="true"/>
+  <file name="artwork.html" crc="195937251" seo="true" mt="1474397805880" redirect="true"/>
+  <file name="amsat.html" crc="4172381901" seo="true" mt="1474397891512" redirect="true"/>
+  <file name="subsystems.html" crc="417785422" seo="true" mt="1474397607790" redirect="true"/>
+  <file name="systems-overview.html" crc="475489595" seo="true" mt="1474397729118" redirect="true"/>
+  <file name="publications.html" crc="3989334438" seo="true" mt="1474397496998" redirect="true"/>
   <file name="publicity.html" crc="119171142" seo="true" mt="1474384546691" redirect="false"/>
   <file name="education.html" crc="113501395" seo="true" mt="1474384546585" redirect="false"/>
   <file name="scientific.html" crc="27404831" seo="true" mt="1474384546819" redirect="false"/>
@@ -379,7 +383,7 @@
   <file name="attitude-control.html" crc="4005069913" seo="true" mt="1474384547721" redirect="true"/>
   <file name="power-raising-and-distribution.html" crc="4242162648" seo="true" mt="1474384547610" redirect="true"/>
   <file name="structural.html" crc="4153073046" seo="true" mt="1474384547389" redirect="true"/>
-  <file name="fee.html" crc="3862505474" seo="true" mt="1474385368156" redirect="true"/>
+  <file name="fee.html" crc="287732501" seo="true" mt="1474397696242" redirect="true"/>
   <file name="ecs.html" crc="381050945" seo="true" mt="1474385372685" redirect="true"/>
   <file name="susf.html" crc="4134562784" seo="true" mt="1474385371941" redirect="true"/>
   <file name="full-list.html" crc="3800276430" seo="true" mt="1474385373444" redirect="true"/>
