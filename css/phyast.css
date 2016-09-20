@@ -1,7 +1,7 @@
 .version.phyast /* version checker */
 {
-	color: #0000FC;
-	background-color: #E3A7E4;
+	color: #00001D;
+	background-color: #A954C8;
 }
 
 .html
@@ -44,7 +44,7 @@
 #u6066
 {
 	z-index: 3;
-	min-height: 726px;
+	min-height: 702px;
 	background: transparent url("../images/20150922_180611.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -93,16 +93,17 @@
 	z-index: 6;
 	display: block;
 	vertical-align: top;
+	margin-bottom: -17px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 16px;
+	margin-top: 33px;
 	left: -99px;
 }
 
 #u6066-bw
 {
 	z-index: 3;
-	min-height: 726px;
+	min-height: 702px;
 }
 
 #pu6071
@@ -110,7 +111,7 @@
 	width: 0.01px;
 	padding-bottom: 90px;
 	margin-left: -100px;
-	margin-top: -725px;
+	margin-top: -701px;
 }
 
 #u6071
@@ -137,9 +138,9 @@
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 28px;
 	font-size: 23px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -195,10 +196,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -282,10 +283,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -369,10 +370,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -456,10 +457,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -543,10 +544,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -630,10 +631,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -717,10 +718,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -784,7 +785,7 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: 17px;
+	margin-top: 41px;
 }
 
 #u6065
@@ -807,9 +808,9 @@
 	width: 980px;
 	min-height: 352px;
 	background-color: transparent;
-	color: #1B1464;
 	line-height: 19px;
 	font-size: 16px;
+	color: #1B1464;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;

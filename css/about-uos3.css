@@ -1,7 +1,7 @@
 .version.about_uos3 /* version checker */
 {
-	color: #000011;
-	background-color: #1E96C3;
+	color: #0000FB;
+	background-color: #6E68C1;
 }
 
 .html
@@ -66,9 +66,9 @@
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 28px;
 	font-size: 23px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -124,10 +124,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -211,10 +211,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -298,10 +298,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -385,10 +385,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -472,10 +472,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -559,10 +559,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -646,10 +646,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;

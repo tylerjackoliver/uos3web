@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474365104618">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474369133639">
   <folder name="assets">
     <file name="ewme_workshop_paper_submission.pdf" crc="4026474968" seo="true" mt="1474364589000"/>
     <file name="__filestore.soton.ac.uk_users_al11g09_mydocuments_phd_conferences_1st-symposium-on-space-eduactional-activities_a623-lidtke.pdf" crc="115373596" seo="true" mt="1474364593000"/>
@@ -6,16 +6,16 @@
   <folder name="css">
     <file name="site_global.css" crc="4022110847"/>
     <file name="artwork.css" crc="245716914" ref="artwork"/>
-    <file name="systems-overview.css" crc="298083109" ref="systems-overview"/>
+    <file name="systems-overview.css" crc="316740280" ref="systems-overview"/>
     <file name="amsat.css" crc="3866645937" ref="amsat"/>
     <file name="index.css" crc="258124872" ref="index"/>
-    <file name="publications.css" crc="4020446432" ref="publications"/>
+    <file name="publications.css" crc="122296800" ref="publications"/>
     <file name="subsystems.css" crc="348743092" ref="subsystems"/>
-    <file name="about-us.css" crc="4060749598" ref="about-us"/>
+    <file name="about-us.css" crc="149541129" ref="about-us"/>
     <file name="publicity.css" crc="3888328918" ref="publicity"/>
     <file name="mission-objective.css" crc="28391732" ref="mission-objective"/>
     <file name="education.css" crc="3888328918" ref="education"/>
-    <file name="about-uos3.css" crc="287217347" ref="about-uos3"/>
+    <file name="about-uos3.css" crc="4218316993" ref="about-uos3"/>
     <file name="scientific.css" crc="3888328918" ref="scientific"/>
     <file name="gallery.css" crc="3930057716" ref="gallery"/>
     <file name="data-handling.css" crc="377673233" ref="data-handling"/>
@@ -26,11 +26,11 @@
     <file name="attitude-control.css" crc="313123988" ref="attitude-control"/>
     <file name="fee.css" crc="32491188" ref="fee"/>
     <file name="ground-station.css" crc="124732407" ref="ground-station"/>
-    <file name="ecs.css" crc="76107601" ref="ecs"/>
+    <file name="ecs.css" crc="58201520" ref="ecs"/>
     <file name="structural.css" crc="3966063925" ref="structural"/>
     <file name="susf.css" crc="114643574" ref="susf"/>
     <file name="full-list.css" crc="494065685" ref="full-list"/>
-    <file name="phyast.css" crc="4242778084" ref="phyast"/>
+    <file name="phyast.css" crc="497636552" ref="phyast"/>
     <file name="suws-.css" crc="258241448" ref="suws-"/>
   </folder>
   <folder name="scripts">
@@ -130,8 +130,6 @@
     <file name="20150922_175326.jpg" crc="145874975" ref="amsat"/>
     <file name="u1499-4.png" crc="4190520052" ref="amsat"/>
     <file name="u1499-4_2x.png" crc="80266164" ref="amsat"/>
-    <file name="u1992-9.png" crc="4150389835" ref="publications"/>
-    <file name="u1992-9_2x.png" crc="3921091827" ref="publications"/>
     <file name="u1698-4.png" crc="2789230" ref="publications"/>
     <file name="u1698-4_2x.png" crc="332622249" ref="publications"/>
     <file name="u686-4.png" crc="280725832" ref="index"/>
@@ -229,16 +227,16 @@
     <file name="u5461-4_2x.png" crc="4215842241" ref="about-us"/>
     <file name="u5467-4.png" crc="3845197050" ref="about-us"/>
     <file name="u5467-4_2x.png" crc="3990809933" ref="about-us"/>
-    <file name="u5464-4.png" crc="4201647328" ref="about-us"/>
-    <file name="u5464-4_2x.png" crc="263282576" ref="about-us"/>
+    <file name="u5464-4.png" crc="4144166296" ref="about-us"/>
+    <file name="u5464-4_2x.png" crc="54778320" ref="about-us"/>
     <file name="susf-ieu5463-fr.png" crc="493926490" ref="about-us"/>
     <file name="susf.png" crc="493926490" ref="about-us"/>
     <file name="u5665-4.png" crc="439954001" ref="about-us"/>
     <file name="u5665-4_2x.png" crc="15827370" ref="about-us"/>
     <file name="u5549-4.png" crc="393233044" ref="fee"/>
     <file name="u5549-4_2x.png" crc="4099199708" ref="fee"/>
-    <file name="u5608-4.png" crc="4029764294" ref="ecs"/>
-    <file name="u5608-4_2x.png" crc="4211190472" ref="ecs"/>
+    <file name="u5608-4.png" crc="3796015667" ref="ecs"/>
+    <file name="u5608-4_2x.png" crc="4172396880" ref="ecs"/>
     <file name="u5395-4.png" crc="3961296861" ref="susf"/>
     <file name="u5395-4_2x.png" crc="440184457" ref="susf"/>
     <file name="20150618_141357.jpg" crc="247765432" ref="full-list"/>
@@ -250,8 +248,8 @@
     <file name="6qsrlc8w_400x400_2x.jpg" crc="242297829" ref="about-us"/>
     <file name="logo (1)-ieu5465-fr.png" crc="4081445713" ref="about-us"/>
     <file name="logo (1).jpg" crc="4103990113" ref="about-us"/>
-    <file name="u5936-4.png" crc="4043718876" ref="about-us"/>
-    <file name="u5936-4_2x.png" crc="324525173" ref="about-us"/>
+    <file name="u5936-4.png" crc="3987262871" ref="about-us"/>
+    <file name="u5936-4_2x.png" crc="4091571854" ref="about-us"/>
     <file name="u5939-4.png" crc="393357643" ref="about-us"/>
     <file name="u5939-4_2x.png" crc="4044167739" ref="about-us"/>
     <file name="uos_logo.png" crc="3797216177" ref="about-us"/>
@@ -265,23 +263,19 @@
     <file name="u5998-4.png" crc="274840534" ref="suws-"/>
     <file name="u5998-4_2x.png" crc="3802552367" ref="suws-"/>
     <file name="20150922_180611.jpg" crc="3984298233" ref="phyast"/>
-    <file name="u6069-4.png" crc="3926112541" ref="phyast"/>
-    <file name="u6069-4_2x.png" crc="350066034" ref="phyast"/>
-    <file name="u6157-7.png" crc="4163223383" ref="publications"/>
-    <file name="u6157-7_2x.png" crc="3830211690" ref="publications"/>
-    <file name="u6160-4.png" crc="4170967434" ref="publications"/>
-    <file name="u6160-4_2x.png" crc="4241051944" ref="publications"/>
+    <file name="u6069-4.png" crc="4261996543" ref="phyast"/>
+    <file name="u6069-4_2x.png" crc="4152029548" ref="phyast"/>
   </folder>
   <file name="index.html" crc="4105772226" seo="true" mt="1474365084640" redirect="true"/>
-  <file name="about-us.html" crc="99593801" seo="true" mt="1474364046644" redirect="true"/>
+  <file name="about-us.html" crc="4047475858" seo="true" mt="1474368624597" redirect="true"/>
   <file name="mission-objective.html" crc="4141843800" seo="true" mt="1474362713427" redirect="true"/>
-  <file name="about-uos3.html" crc="192136077" seo="true" mt="1474365102738" redirect="true"/>
+  <file name="about-uos3.html" crc="192136077" seo="true" mt="1474369127344" redirect="true"/>
   <file name="gallery.html" crc="3897535643" seo="true" mt="1474362992958" redirect="true"/>
   <file name="artwork.html" crc="275962313" seo="true" mt="1474363011654" redirect="true"/>
   <file name="amsat.html" crc="4277169217" seo="true" mt="1474363024201" redirect="true"/>
   <file name="subsystems.html" crc="3977796494" seo="true" mt="1474362754885" redirect="true"/>
-  <file name="systems-overview.html" crc="4679123" seo="true" mt="1474362764931" redirect="true"/>
-  <file name="publications.html" crc="3851186104" seo="true" mt="1474364659968" redirect="true"/>
+  <file name="systems-overview.html" crc="4129484009" seo="true" mt="1474368712230" redirect="true"/>
+  <file name="publications.html" crc="333621841" seo="true" mt="1474369059689" redirect="true"/>
   <file name="publicity.html" crc="57180903" seo="true" mt="1474307649229" redirect="false"/>
   <file name="education.html" crc="3868298575" seo="true" mt="1474307649229" redirect="false"/>
   <file name="scientific.html" crc="284832088" seo="true" mt="1474307649229" redirect="false"/>
@@ -294,9 +288,9 @@
   <file name="power-raising-and-distribution.html" crc="4098309404" seo="true" mt="1474362917265" redirect="true"/>
   <file name="structural.html" crc="136742309" seo="true" mt="1474362904835" redirect="true"/>
   <file name="fee.html" crc="4158630657" seo="true" mt="1474362544635" redirect="true"/>
-  <file name="ecs.html" crc="72191741" seo="true" mt="1474362497034" redirect="true"/>
+  <file name="ecs.html" crc="313108295" seo="true" mt="1474368601572" redirect="true"/>
   <file name="susf.html" crc="487056333" seo="true" mt="1474362471846" redirect="true"/>
   <file name="full-list.html" crc="508069641" seo="true" mt="1474362518258" redirect="true"/>
   <file name="suws-.html" crc="3839854767" seo="true" mt="1474363835815" redirect="true"/>
-  <file name="phyast.html" crc="3866052529" seo="true" mt="1474363949036" redirect="true"/>
+  <file name="phyast.html" crc="235619453" seo="true" mt="1474368592587" redirect="true"/>
 </manifest>
