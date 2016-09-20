@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EA;
-	background-color: #A57ECF;
+	color: #00001E;
+	background-color: #368C1A;
 }
 
 .html
@@ -1108,7 +1108,7 @@
 	position: relative;
 	left: -100px;
 	padding-top: 38px;
-	padding-bottom: 62px;
+	padding-bottom: 111px;
 }
 
 #u4308-4
@@ -1122,21 +1122,11 @@
 
 #u4316-4
 {
-	z-index: 136;
+	z-index: 130;
 	display: block;
 	vertical-align: top;
 	left: 855px;
 	margin-top: 14px;
-	position: relative;
-}
-
-#u4309-6
-{
-	z-index: 130;
-	display: block;
-	vertical-align: top;
-	left: 804px;
-	margin-top: 17px;
 	position: relative;
 }
 
