@@ -11,7 +11,7 @@
   <title>UoS3</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4022110847"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?15611374" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?3936714447" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -33,14 +33,11 @@ var __adobewebfontsappname__ = "muse";
      <div class="pinned-colelem" id="u3042"><!-- simple frame --></div>
     </div>
     <div class="browser_width colelem" id="u682-bw">
-     <div class="museBGSize" id="u682"><!-- column -->
+     <div class="museBGSize" id="u682"><!-- group -->
       <div class="clearfix" id="u682_align_to_page">
-       <div class="rgba-background rounded-corners clearfix colelem" id="u4301"><!-- group -->
-        <img class="grpelem" id="u686-4" alt="Designed, Manufactured and Flown by students" width="955" height="216" src="images/u686-4.png" data-hidpi-src="images/u686-4_2x.png"/><!-- rasterized frame -->
-       </div>
-       <div class="pointer_cursor rgba-background rounded-corners clearfix colelem" id="u747"><!-- group -->
+       <div class="pointer_cursor rgba-background rounded-corners clearfix grpelem" id="u4301"><!-- group -->
         <a class="block" href="about-uos3.html"></a>
-        <a class="nonblock nontext grpelem" id="u748-5" href="about-uos3.html"><!-- rasterized frame --><img id="u748-5_img" alt="ABOUT UoS3 " width="130" height="33" src="images/u748-5.png" data-hidpi-src="images/u748-5_2x.png"/></a>
+        <a class="nonblock nontext grpelem" id="u686-4" href="about-uos3.html"><!-- rasterized frame --><img id="u686-4_img" alt="Designed, Manufactured and Flown by students" width="955" height="120" src="images/u686-4.png" data-hidpi-src="images/u686-4_2x.png"/></a>
        </div>
       </div>
      </div>
@@ -50,7 +47,7 @@ var __adobewebfontsappname__ = "muse";
      <a class="nonblock nontext MuseLinkActive" id="u685-4" href="index.html"><!-- rasterized frame --><img id="u685-4_img" alt="University of Southampton Small Satellite" width="329" height="56" src="images/u685-4-a.png" data-hidpi-src="images/u685-4-a_2x.png"/></a>
      <nav class="MenuBar clearfix" id="menuu2184"><!-- horizontal box -->
       <div class="MenuItemContainer clearfix grpelem" id="u2241"><!-- vertical box -->
-       <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix colelem" id="u2244" href="about-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u2246-4"><!-- content --><p>Who are We?</p></div></a>
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix colelem" id="u2244" href="about-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u2246-4"><!-- content --><p>About Us</p></div></a>
       </div>
       <div class="MenuItemContainer clearfix grpelem" id="u2213"><!-- vertical box -->
        <a class="nonblock nontext MenuItem MenuItemWithSubMenu rounded-corners clearfix colelem" id="u2237" href="mission-objective.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u2238-4"><!-- content --><p>Goals</p></div></a>
@@ -188,10 +185,10 @@ Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight()/* resize height */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#u299').registerOpacityScrollEffect([{"in":[-Infinity,1406.4],"opacity":100,"fade":293.85},{"in":[1406.4,1406.4],"opacity":0},{"in":[1406.4,Infinity],"opacity":0,"fade":6.15}]);/* scroll effect */
-$('#u766-4').registerOpacityScrollEffect([{"in":[-Infinity,1199.55],"opacity":100,"fade":787},{"in":[1199.55,1199.55],"opacity":100},{"in":[1199.55,Infinity],"opacity":0,"fade":213}]);/* scroll effect */
-$('#u644').registerPositionScrollEffect([{"in":[-Infinity,1062.55],"speed":[0,1]},{"in":[1062.55,Infinity],"speed":[-1,1]}]);/* scroll effect */
-$('#u642').registerPositionScrollEffect([{"in":[-Infinity,1062.55],"speed":[0,1]},{"in":[1062.55,Infinity],"speed":[1,1]}]);/* scroll effect */
+$('#u299').registerOpacityScrollEffect([{"fade":293.85,"opacity":100,"in":[-Infinity,1406.4]},{"opacity":0,"in":[1406.4,1406.4]},{"fade":6.15,"opacity":0,"in":[1406.4,Infinity]}]);/* scroll effect */
+$('#u766-4').registerOpacityScrollEffect([{"fade":787,"opacity":100,"in":[-Infinity,1199.55]},{"opacity":100,"in":[1199.55,1199.55]},{"fade":213,"opacity":0,"in":[1199.55,Infinity]}]);/* scroll effect */
+$('#u644').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,1062.55]},{"speed":[-1,1],"in":[1062.55,Infinity]}]);/* scroll effect */
+$('#u642').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,1062.55]},{"speed":[1,1],"in":[1062.55,Infinity]}]);/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

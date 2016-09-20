@@ -1,7 +1,7 @@
 .version.payload /* version checker */
 {
-	color: #00000B;
-	background-color: #AD625A;
+	color: #0000FC;
+	background-color: #686B7F;
 }
 
 .html
@@ -140,9 +140,9 @@
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 28px;
 	font-size: 23px;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -154,7 +154,7 @@
 #menuu5143
 {
 	z-index: 64;
-	width: 695px;
+	width: 663px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -166,7 +166,7 @@
 
 #u5165
 {
-	width: 123px;
+	width: 91px;
 	min-height: 35px;
 	background-color: transparent;
 	position: relative;
@@ -175,24 +175,33 @@
 
 #u5168
 {
-	width: 123px;
+	width: 91px;
 	background-color: transparent;
 	border-radius: 5px;
 	padding-bottom: 16px;
 	position: relative;
 }
 
+#u5168:hover
+{
+	background-color: #FFFFFF;
+	border-radius: 3px;
+	width: 91px;
+	min-height: 0px;
+	margin: 0px;
+}
+
 #u5171-4
 {
-	width: 94px;
+	width: 62px;
 	min-height: 19px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -206,7 +215,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
-	width: 94px;
+	width: 62px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -215,7 +224,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
-	width: 94px;
+	width: 62px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -224,7 +233,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
-	width: 94px;
+	width: 62px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -248,7 +257,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 125px;
+	left: 93px;
 }
 
 #u5182
@@ -276,10 +285,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -335,7 +344,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 199px;
+	left: 167px;
 }
 
 #u5187
@@ -363,10 +372,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -422,7 +431,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 315px;
+	left: 283px;
 }
 
 #u5173
@@ -450,10 +459,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -509,7 +518,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 399px;
+	left: 367px;
 }
 
 #u5152
@@ -537,10 +546,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -596,7 +605,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 489px;
+	left: 457px;
 }
 
 #u5161
@@ -608,7 +617,7 @@
 	position: relative;
 }
 
-#u5168:hover,#u5161:hover
+#u5161:hover
 {
 	background-color: #FFFFFF;
 	border-radius: 3px;
@@ -624,10 +633,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -683,7 +692,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 614px;
+	left: 582px;
 }
 
 #u5145
@@ -711,10 +720,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 19px;
 	font-size: 16px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
