@@ -1,37 +1,37 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474370984619">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="uos3.com" resolutions="1x,2x" timestamp="1474382875277">
   <folder name="assets">
     <file name="ewme_workshop_paper_submission.pdf" crc="4026474968" seo="true" mt="1474364589000"/>
     <file name="__filestore.soton.ac.uk_users_al11g09_mydocuments_phd_conferences_1st-symposium-on-space-eduactional-activities_a623-lidtke.pdf" crc="115373596" seo="true" mt="1474364593000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4022110847"/>
-    <file name="artwork.css" crc="245716914" ref="artwork"/>
-    <file name="systems-overview.css" crc="316740280" ref="systems-overview"/>
-    <file name="amsat.css" crc="3866645937" ref="amsat"/>
-    <file name="index.css" crc="258124872" ref="index"/>
-    <file name="publications.css" crc="122296800" ref="publications"/>
-    <file name="subsystems.css" crc="348743092" ref="subsystems"/>
-    <file name="about-us.css" crc="328542802" ref="about-us"/>
+    <file name="artwork.css" crc="206893716" ref="artwork"/>
+    <file name="systems-overview.css" crc="454776416" ref="systems-overview"/>
+    <file name="amsat.css" crc="299129327" ref="amsat"/>
+    <file name="index.css" crc="3852645580" ref="index"/>
+    <file name="publications.css" crc="74170315" ref="publications"/>
+    <file name="subsystems.css" crc="140731394" ref="subsystems"/>
+    <file name="about-us.css" crc="3810086918" ref="about-us"/>
     <file name="publicity.css" crc="3888328918" ref="publicity"/>
-    <file name="mission-objective.css" crc="28391732" ref="mission-objective"/>
+    <file name="mission-objective.css" crc="3856909504" ref="mission-objective"/>
     <file name="education.css" crc="3888328918" ref="education"/>
-    <file name="about-uos3.css" crc="4218316993" ref="about-uos3"/>
+    <file name="about-uos3.css" crc="3949531732" ref="about-uos3"/>
     <file name="scientific.css" crc="3888328918" ref="scientific"/>
-    <file name="gallery.css" crc="3930057716" ref="gallery"/>
-    <file name="data-handling.css" crc="377673233" ref="data-handling"/>
-    <file name="telecommunications.css" crc="4027535503" ref="telecommunications"/>
-    <file name="mechanisms.css" crc="3844305706" ref="mechanisms"/>
-    <file name="payload.css" crc="4234701695" ref="payload"/>
-    <file name="power-raising-and-distribution.css" crc="479016261" ref="power-raising-and-distribution"/>
-    <file name="attitude-control.css" crc="313123988" ref="attitude-control"/>
-    <file name="fee.css" crc="32491188" ref="fee"/>
-    <file name="ground-station.css" crc="124732407" ref="ground-station"/>
-    <file name="ecs.css" crc="58201520" ref="ecs"/>
-    <file name="structural.css" crc="3966063925" ref="structural"/>
-    <file name="susf.css" crc="114643574" ref="susf"/>
-    <file name="full-list.css" crc="494065685" ref="full-list"/>
-    <file name="phyast.css" crc="497636552" ref="phyast"/>
-    <file name="suws-.css" crc="258241448" ref="suws-"/>
+    <file name="gallery.css" crc="4012226820" ref="gallery"/>
+    <file name="data-handling.css" crc="3898885389" ref="data-handling"/>
+    <file name="telecommunications.css" crc="229443068" ref="telecommunications"/>
+    <file name="mechanisms.css" crc="276059230" ref="mechanisms"/>
+    <file name="payload.css" crc="3991175051" ref="payload"/>
+    <file name="power-raising-and-distribution.css" crc="441508309" ref="power-raising-and-distribution"/>
+    <file name="attitude-control.css" crc="410049184" ref="attitude-control"/>
+    <file name="fee.css" crc="4272977049" ref="fee"/>
+    <file name="ground-station.css" crc="85589794" ref="ground-station"/>
+    <file name="ecs.css" crc="4284356231" ref="ecs"/>
+    <file name="structural.css" crc="533433940" ref="structural"/>
+    <file name="susf.css" crc="295298602" ref="susf"/>
+    <file name="full-list.css" crc="109556399" ref="full-list"/>
+    <file name="phyast.css" crc="291641103" ref="phyast"/>
+    <file name="suws-.css" crc="3761467651" ref="suws-"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-us:mission-objective:about-uos3:gallery:artwork:amsat:subsystems:systems-overview:publications:publicity:education:scientific:ground-station:telecommunications:mechanisms:data-handling:payload:attitude-control:power-raising-and-distribution:structural:fee:ecs:susf:full-list:suws-:phyast"/>
@@ -266,31 +266,31 @@
     <file name="u6069-4.png" crc="4261996543" ref="phyast"/>
     <file name="u6069-4_2x.png" crc="4152029548" ref="phyast"/>
   </folder>
-  <file name="index.html" crc="4105772226" seo="true" mt="1474365084640" redirect="true"/>
-  <file name="about-us.html" crc="4047475858" seo="true" mt="1474370974265" redirect="true"/>
-  <file name="mission-objective.html" crc="4141843800" seo="true" mt="1474362713427" redirect="true"/>
-  <file name="about-uos3.html" crc="192136077" seo="true" mt="1474370981043" redirect="true"/>
-  <file name="gallery.html" crc="3897535643" seo="true" mt="1474362992958" redirect="true"/>
-  <file name="artwork.html" crc="275962313" seo="true" mt="1474363011654" redirect="true"/>
-  <file name="amsat.html" crc="4277169217" seo="true" mt="1474363024201" redirect="true"/>
-  <file name="subsystems.html" crc="3977796494" seo="true" mt="1474362754885" redirect="true"/>
-  <file name="systems-overview.html" crc="4129484009" seo="true" mt="1474368712230" redirect="true"/>
-  <file name="publications.html" crc="333621841" seo="true" mt="1474369059689" redirect="true"/>
+  <file name="index.html" crc="185451377" seo="true" mt="1474382473582" redirect="true"/>
+  <file name="about-us.html" crc="503372769" seo="true" mt="1474382584691" redirect="true"/>
+  <file name="mission-objective.html" crc="3973656235" seo="true" mt="1474382648594" redirect="true"/>
+  <file name="about-uos3.html" crc="4112800219" seo="true" mt="1474382849587" redirect="true"/>
+  <file name="gallery.html" crc="202804074" seo="true" mt="1474382780619" redirect="true"/>
+  <file name="artwork.html" crc="172358720" seo="true" mt="1474382790036" redirect="true"/>
+  <file name="amsat.html" crc="206801493" seo="true" mt="1474382808124" redirect="true"/>
+  <file name="subsystems.html" crc="4180266843" seo="true" mt="1474382671292" redirect="true"/>
+  <file name="systems-overview.html" crc="529228045" seo="true" mt="1474382589003" redirect="true"/>
+  <file name="publications.html" crc="55790390" seo="true" mt="1474382478013" redirect="true"/>
   <file name="publicity.html" crc="57180903" seo="true" mt="1474307649229" redirect="false"/>
   <file name="education.html" crc="3868298575" seo="true" mt="1474307649229" redirect="false"/>
   <file name="scientific.html" crc="284832088" seo="true" mt="1474307649229" redirect="false"/>
-  <file name="ground-station.html" crc="235556097" seo="true" mt="1474364886866" redirect="true"/>
-  <file name="telecommunications.html" crc="3904664815" seo="true" mt="1474362895709" redirect="true"/>
-  <file name="mechanisms.html" crc="369482985" seo="true" mt="1474362961560" redirect="true"/>
-  <file name="data-handling.html" crc="4142267752" seo="true" mt="1474362976713" redirect="true"/>
-  <file name="payload.html" crc="216681189" seo="true" mt="1474362938396" redirect="true"/>
-  <file name="attitude-control.html" crc="4037305412" seo="true" mt="1474362925797" redirect="true"/>
-  <file name="power-raising-and-distribution.html" crc="4098309404" seo="true" mt="1474362917265" redirect="true"/>
-  <file name="structural.html" crc="136742309" seo="true" mt="1474362904835" redirect="true"/>
-  <file name="fee.html" crc="4158630657" seo="true" mt="1474362544635" redirect="true"/>
-  <file name="ecs.html" crc="313108295" seo="true" mt="1474368601572" redirect="true"/>
-  <file name="susf.html" crc="487056333" seo="true" mt="1474362471846" redirect="true"/>
-  <file name="full-list.html" crc="508069641" seo="true" mt="1474362518258" redirect="true"/>
-  <file name="suws-.html" crc="3839854767" seo="true" mt="1474363835815" redirect="true"/>
-  <file name="phyast.html" crc="235619453" seo="true" mt="1474368592587" redirect="true"/>
+  <file name="ground-station.html" crc="377227630" seo="true" mt="1474382710462" redirect="true"/>
+  <file name="telecommunications.html" crc="63777831" seo="true" mt="1474382722346" redirect="true"/>
+  <file name="mechanisms.html" crc="4021218434" seo="true" mt="1474382755769" redirect="true"/>
+  <file name="data-handling.html" crc="95660528" seo="true" mt="1474382764816" redirect="true"/>
+  <file name="payload.html" crc="263862685" seo="true" mt="1474382749064" redirect="true"/>
+  <file name="attitude-control.html" crc="81495849" seo="true" mt="1474382740753" redirect="true"/>
+  <file name="power-raising-and-distribution.html" crc="67407158" seo="true" mt="1474382732235" redirect="true"/>
+  <file name="structural.html" crc="243956901" seo="true" mt="1474382716510" redirect="true"/>
+  <file name="fee.html" crc="3862505474" seo="true" mt="1474382635933" redirect="true"/>
+  <file name="ecs.html" crc="381050945" seo="true" mt="1474382619844" redirect="true"/>
+  <file name="susf.html" crc="4134562784" seo="true" mt="1474382608796" redirect="true"/>
+  <file name="full-list.html" crc="3800276430" seo="true" mt="1474382628914" redirect="true"/>
+  <file name="suws-.html" crc="3835474542" seo="true" mt="1474382601156" redirect="true"/>
+  <file name="phyast.html" crc="486100937" seo="true" mt="1474382579386" redirect="true"/>
 </manifest>

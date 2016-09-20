@@ -1,7 +1,7 @@
 .version.data_handling /* version checker */
 {
-	color: #000016;
-	background-color: #82D611;
+	color: #0000E8;
+	background-color: #64450D;
 }
 
 .html
@@ -141,9 +141,9 @@
 	width: 329px;
 	min-height: 28px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 28px;
 	font-size: 23px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -155,7 +155,7 @@
 #menuu5277
 {
 	z-index: 76;
-	width: 670px;
+	width: 596px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -199,10 +199,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -251,93 +251,6 @@
 	font-weight: normal;
 }
 
-#u5313
-{
-	width: 72px;
-	min-height: 35px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 100px;
-}
-
-#u5316
-{
-	width: 72px;
-	background-color: transparent;
-	border-radius: 5px;
-	padding-bottom: 16px;
-	position: relative;
-}
-
-#u5316:hover
-{
-	background-color: #FFFFFF;
-	border-radius: 3px;
-	width: 72px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u5319-4
-{
-	width: 43px;
-	min-height: 19px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	color: #FFFFFF;
-	line-height: 19px;
-	font-size: 16px;
-	text-align: center;
-	font-family: coda, sans-serif;
-	font-weight: 400;
-	position: relative;
-	margin-right: -10000px;
-	top: 8px;
-	left: 14px;
-}
-
-#u5316:hover #u5319-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	width: 43px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u5316:active #u5319-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	width: 43px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u5316.MuseMenuActive #u5319-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	width: 43px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u5316:hover #u5319-4 p
-{
-	color: #2E3192;
-	visibility: inherit;
-}
-
-#u5316:active #u5319-4 p
-{
-	color: #2E3192;
-	visibility: inherit;
-	font-weight: normal;
-}
-
 #u5320
 {
 	width: 114px;
@@ -345,7 +258,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 174px;
+	left: 100px;
 }
 
 #u5321
@@ -373,10 +286,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -432,7 +345,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 290px;
+	left: 216px;
 }
 
 #u5307
@@ -460,10 +373,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -519,7 +432,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 374px;
+	left: 300px;
 }
 
 #u5286
@@ -547,10 +460,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -606,7 +519,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 464px;
+	left: 390px;
 }
 
 #u5295
@@ -634,10 +547,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -693,7 +606,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 589px;
+	left: 515px;
 }
 
 #u5279
@@ -721,10 +634,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 19px;
-	font-size: 16px;
 	text-align: center;
+	font-size: 16px;
+	color: #FFFFFF;
 	font-family: coda, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -773,7 +686,7 @@
 	font-weight: normal;
 }
 
-#u5302.MuseMenuActive #u5305-4 p,#u5316.MuseMenuActive #u5319-4 p,#u5321.MuseMenuActive #u5323-5 p,#u5321.MuseMenuActive #u5323-5 span,#u5307.MuseMenuActive #u5310-4 p,#u5286.MuseMenuActive #u5287-4 p,#u5295.MuseMenuActive #u5297-4 p,#u5279.MuseMenuActive #u5280-4 p
+#u5302.MuseMenuActive #u5305-4 p,#u5321.MuseMenuActive #u5323-5 p,#u5321.MuseMenuActive #u5323-5 span,#u5307.MuseMenuActive #u5310-4 p,#u5286.MuseMenuActive #u5287-4 p,#u5295.MuseMenuActive #u5297-4 p,#u5279.MuseMenuActive #u5280-4 p
 {
 	color: #1B1464;
 	visibility: inherit;
