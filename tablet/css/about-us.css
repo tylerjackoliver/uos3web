@@ -1,7 +1,7 @@
 .version.about_us /* version checker */
 {
-	color: #0000EC;
-	background-color: #A2614D;
+	color: #0000F4;
+	background-color: #4819D1;
 }
 
 @-ms-viewport
@@ -388,7 +388,7 @@
 	border-radius: 0px 0px 10px 10px ;
 	margin-left: 218px;
 	position: relative;
-	background: #FFFFFF url("../../images/susf-ieu6697-fr.png") no-repeat center center;
+	background: #FFFFFF url("../../images/susf-ieu7173-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../../images/susf.png") no-repeat center center;
 	background-color: #FFFFFF;
 	background-size: contain;
@@ -475,7 +475,7 @@
 	border-radius: 0px 0px 10px 10px ;
 	margin-left: 218px;
 	position: relative;
-	background: #FFFFFF url("../../images/logo%20(1)-ieu6699-fr.png") no-repeat center center;
+	background: #FFFFFF url("../../images/logo%20(1)-ieu7175-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../../images/logo%20(1).jpg") no-repeat center center;
 	background-color: #FFFFFF;
 	background-size: contain;

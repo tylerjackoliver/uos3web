@@ -1,0 +1,168 @@
+#u7122
+{
+	position: relative;
+	background: transparent url("../../images/uos3.png") no-repeat center center;
+}
+
+.hidpi #u7122
+{
+	background-image: url("../../images/uos3_2x.png");
+	background-size: 92px 92px;
+}
+
+#menuu7123
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7127
+{
+	background-color: transparent;
+	border-radius: 5px;
+	position: relative;
+}
+
+#u7127:hover
+{
+	background-color: #FFFFFF;
+	border-radius: 3px;
+}
+
+#u7128-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 13px;
+	text-align: center;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7127:hover #u7128-4 p
+{
+	color: #2E3192;
+	visibility: inherit;
+}
+
+#u7127:active #u7128-4 p
+{
+	color: #2E3192;
+	visibility: inherit;
+	font-weight: normal;
+}
+
+#u7141
+{
+	background-color: transparent;
+	border-radius: 5px;
+	position: relative;
+}
+
+#u7141:hover
+{
+	background-color: #FFFFFF;
+	border-radius: 3px;
+}
+
+#u7142-5
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 13px;
+	text-align: center;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7141:hover #u7142-5 p,#u7141:hover #u7142-5 span
+{
+	color: #2E3192;
+	visibility: inherit;
+}
+
+#u7141:active #u7142-5 p,#u7141:active #u7142-5 span
+{
+	color: #2E3192;
+	visibility: inherit;
+	font-weight: normal;
+}
+
+#u7124,#u7138,#u7131
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u7132
+{
+	background-color: transparent;
+	border-radius: 5px;
+	position: relative;
+}
+
+#u7132:hover
+{
+	background-color: #FFFFFF;
+	border-radius: 3px;
+}
+
+#u7127.MuseMenuActive,#u7141.MuseMenuActive,#u7132.MuseMenuActive
+{
+	background-color: #FFFFFF;
+	border-radius: 5px;
+}
+
+#u7133-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 13px;
+	text-align: center;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-family: coda, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u7132:hover #u7133-4 p
+{
+	color: #2E3192;
+	visibility: inherit;
+}
+
+#u7132:active #u7133-4 p
+{
+	color: #2E3192;
+	visibility: inherit;
+	font-weight: normal;
+}
+
+#u7127.MuseMenuActive #u7128-4 p,#u7141.MuseMenuActive #u7142-5 p,#u7141.MuseMenuActive #u7142-5 span,#u7132.MuseMenuActive #u7133-4 p
+{
+	color: #1B1464;
+	visibility: inherit;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u7121,#u7120
+{
+	background-color: #1B1464;
+}
+
